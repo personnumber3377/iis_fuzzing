@@ -1,5 +1,9 @@
 
 import random
+MAX_SEED = 100_000
+seed = random.randint(0, MAX_SEED)
+print("Using this seed: "+str(seed))
+random.seed(seed)
 import string as string_mod # string.printable
 
 MAX_REPEAT_COUNT = 5

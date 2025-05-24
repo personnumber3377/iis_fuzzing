@@ -9,9 +9,8 @@ import string
 from http_mutator import * # Get all the shit...
 
 CHUNK_SIZE = 4096*10
-# TIMEOUT_MS = 50
 TIMEOUT_MS = 50
-RECV_AMOUNT = 100_000 # Just get 100k
+RECV_AMOUNT = 100
 MAX_CORP_SIZE = 30_000 # 30k samples maximum
 
 def load_corpus(directory): # Loads the corpus shit from the thing...
@@ -69,12 +68,6 @@ def send_files(directory, host, port):
 
     previous_requests = [None] * HOW_MANY_TO_KEEP
     tot_count = 0
-
-    # Initialize socket here maybe???
-
-    sock = socket.create_connection((host, port))
-    sock.settimeout(TIMEOUT_MS / 1000.0)
-
     while True: # Main fuzz loop
         # print("Doing the stuff....")
 
@@ -82,7 +75,6 @@ def send_files(directory, host, port):
         for testcase in corpus:
             # print("i == "+str(i))
             # i += 1
-            # print("tot_count: "+str(tot_count))
             tot_count += 1
             if tot_count % SAVE_COUNT == 0:
                 save_corpus(corpus)
@@ -94,36 +86,19 @@ def send_files(directory, host, port):
 
 
             try:
-                
+                sock = socket.create_connection((host, port))
+                sock.settimeout(TIMEOUT_MS / 1000.0)
                 sock.sendall(chunk)
                 stuff = sock.recv(RECV_AMOUNT)
-                # print("Received this: "+str(stuff))
-
-                if b"Connection: close" in stuff or b"" == stuff:
-                    # We need to connect again
-                    sock.close()
-                    sock = socket.create_connection((host, port))
-                    sock.settimeout(TIMEOUT_MS / 1000.0)
-
                 if b"400" not in stuff:
                     # print(stuff)
                     corpus.append(chunk) # Add the new shit in the thing...
 
                     if len(corpus) >= MAX_CORP_SIZE:
                         corpus.pop(random.randrange(0, len(corpus) - 1)) # Just delete a random element from the thing....
-                # sock.close()
-            except (TimeoutError, socket.timeout, ConnectionResetError, BrokenPipeError) as e: # This is due to the thing...
-                # Server likely expects more data or connection broke.
-                # print(f"[!] Reconnecting due to: {e}")
-                try:
-                    sock.close()
-                except:
-                    print("FUCK"*10000)
-                    exit(1)
-                    # pass
-                sock = socket.create_connection((host, port))
-                sock.settimeout(TIMEOUT_MS / 1000.0)
-
+                sock.close()
+            except TimeoutError:
+                continue
             except OSError:
                 with open("previous_requests.pkl", "wb") as f:
                     pickle.dump(previous_requests, f)
