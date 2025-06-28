@@ -1,0 +1,25 @@
+GET /_xa/ads_batch?ads=true&clientType=mobile&channel[context_page_type]=home&channel[info]=%7B%22actor_id%22%3Anull%2C%22content_type%22%3Anull%2C%22video_id%22%3Anull%2C%22timestamp%22%3A1751070149%2C%22hash%22%3A%22b85f1c8392fda6f3234017a2c20548bf%22%7D&channel[site]=pornhub&site_id=2&device_type=tablet&hbresp=header&hb=58E9C3F5-33BA-4675-8C88-5555A753CAF6&data=%5B%7B%22spots%22%3A%5B%7B%22zone%22%3A5%7D%2C%7B%22zone%22%3A2184351%7D%5D%7D%5D&noc=1&dm=www.pornhub.com/_xa&width=1920&height=1200 HTTP/2.0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.pornhub.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: platform=pc
+cookie: ss=225883773060362360
+cookie: comp_detect-cookies=23063.100000
+cookie: __s=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: __l=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: cookieConsent=1
+priority: u=1, i
+

@@ -1,0 +1,16 @@
+HEAD /videoplayback/id/c03e86bd8f8dafaf/itag/59/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3886675176/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/37A85640EC56AB83F1FE60FBF57FB596EFB9B874.0CBC7AFE5A3E15934CF918BCE444CE99D13F1EB5/key/cms1/cms_redirect/yes/met/1751070058,/mh/7C/mip/82.130.15.158/mm/42/mn/sn-5go7yner/ms/onc/mt/1751068630/mv/u/mvi/5/pl/22/rms/onc,onc/file/file.mp4 HTTP/1.1
+Host: r5---sn-5go7yner.c.2mdn.net
+Connection: keep-alive
+sec-ch-ua-platform: "Linux"
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: */*
+Origin: null
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://googleads.g.doubleclick.net/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+

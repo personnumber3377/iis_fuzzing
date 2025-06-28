@@ -1,0 +1,18 @@
+GET /bh/rtset?pid=559960&gp=1&google_gid=CAESEPogjIFWkJi50Yczl__7WeU&google_cver=1&google_push=AXcoOmREJ6-5UXa0Ix9GKibiwCeGkPeTtsKWT3oChrBkI7jYCovJfeg-senIOzxnCkOe-pult3F5kA7gHAOyVD_J4Tb9URSHVwdvZbO4&gdpr=1&gdpr_consent=CQTqrYAQTqrYAEsACBENBxFoAP_gAEPgABaoK1ID_C7EbCFCiLp3IKMEMAhHQBBAYsQwAAaBAwAADBIQIAQCgkEYBASAFCACCAAAKCSBAAAgCAAAAUAAYAAVAABEAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEEEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEXCuQUYIYBCugCAAxYhgAA0CBgAAGCQgQAgFJIIkCAEAIEAAEAAAQEgCAABQABAAAIAAgAAqAACIABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIIIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+sec-fetch-storage-access: active
+referer: https://pagead2.googlesyndication.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: V=FRS51R0CBIkK
+cookie: gdpr=CQTtj8gQTtj8gDlBXAENBxFsAP_gAEPgACiQLVtT_G__bXlv-b736ftkeYxf9_hr7sQxBgbJs24FzLvW_JwS32E7NEzatqYKmRIAu3TBIQNtHJjURVChaogVrzDsaEyUoTtKJ-BkiHMRY2JYCFxvm4tjeQCZ5vr_91d9mT-t7dr-3dzyy5hnv3a9_-S1WJidKYetHfv8bBKT-_Ic9_x-_4v4_N7pE2-eS1v_tGvt639-4vv_dp_99_77ffz____72_e_X__f________________gtWACYaFRBGWBAiESgYQQIAFBWEAFAgCAABIGCAgBMGBTkDABdYSIAQAoABggBAACDAAEAAAEACEQAUAFAgAAgECgADAAgCAgAIGAAEAFgIBAACA6BimBBAIFgAkZkUGmBKAAkEBLZUIJAECCuEIRZ4BBAiJgoAAAAACgAAAHgsBiSQEqEggC4gmgAAIAAAogQIEEjJgACgM0WgPBk-jI0wDB8wSIKYBkARBGQkGhCb0pB4pCiFBAAAA
+cookie: pb_rtb_ev=3-1yxu|7TZ.0.1|7bq.0.1
+priority: i
+

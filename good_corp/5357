@@ -1,0 +1,18 @@
+POST /csi?v=2&s=osv&dmc=8&puid=5~mcfhwi8r&c=4269636983077&slotId=2134818491538&qqid=CLep7KXsko4DFXxzHgId6RUw9w&fb=outstream-lima&gpm_i=9&gpm_c=9&gpm_a=9&br=707&mt=video%2Fmp4&vs=480x854&met.4=vfl.1tr~vil.24b~videopreviewvisible.s3e HTTP/2.0
+content-length: 0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://googleads.g.doubleclick.net
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://googleads.g.doubleclick.net/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+

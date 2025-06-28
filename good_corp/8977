@@ -1,0 +1,16 @@
+GET /a7/creatives/221/1559/822256/1144904/1144904_video.mp4 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+accept-encoding: identity;q=1, *;q=0
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: video
+sec-fetch-storage-access: active
+referer: https://a.adtng.com/
+accept-language: en-US,en;q=0.9
+range: bytes=0-
+priority: i
+

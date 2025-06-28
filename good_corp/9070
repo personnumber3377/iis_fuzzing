@@ -1,0 +1,20 @@
+GET / HTTP/2.0
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: _ga_XS4TT1TX37=GS2.1.s1750861531$o1$g0$t1750861542$j49$l0$h0
+if-none-match: "cacheable:19e7f86b86bbf66c25585ae80cebc674"
+priority: u=0, i
+

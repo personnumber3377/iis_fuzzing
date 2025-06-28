@@ -1,0 +1,13 @@
+GET /static/build/chunks/pc-r-LikesYou-8b2e94f7f10f1dfe3240.js HTTP/2.0
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://tinder.com/service-worker.js
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: AWSALB=Qkzooj/GO1hNtV5ItxTWei9s4p5WFJUV7212BpBt7g1LhQkwZW6KS7bMTl/6JQtf2t9YM71wBmEe+cgvZjksFlTE3EnCG5VvvjXTZd9TFkcmMz5dojOPlKBw2l0V
+cookie: AWSALBCORS=Qkzooj/GO1hNtV5ItxTWei9s4p5WFJUV7212BpBt7g1LhQkwZW6KS7bMTl/6JQtf2t9YM71wBmEe+cgvZjksFlTE3EnCG5VvvjXTZd9TFkcmMz5dojOPlKBw2l0V
+priority: u=1, i
+

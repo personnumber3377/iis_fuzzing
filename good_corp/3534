@@ -1,0 +1,23 @@
+POST /.well-known/shopify/monorail/unstable/produce_batch HTTP/2.0
+content-length: 388
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://bebek.fi
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://bebek.fi/products/0-33uf-275vac-x2
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: keep_alive=eyJ2IjoyLCJ0cyI6MTc1MTA2OTM4MTQxNywiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJ0YSI6MCwia2JhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MiwicyI6MTc1MTA2OTMyMTk5NywiZCI6NTV9fQ%3D%3D
+cookie: _ga_XS4TT1TX37=GS2.1.s1751069322$o2$g1$t1751069385$j60$l0$h0
+priority: u=4, i
+
+{"events":[{"schema_id":"trekkie_asset_context/1.1","payload":{"build_id":"7f48c99429cb25be36839f7a7bcca2ac8a69827d","page_url":"https://bebek.fi/products/0-33uf-275vac-x2","app_name":"storefront","shop_id":78417985803,"monorail_region":"shop_domain","source":"trekkie-storefront-renderer"},"metadata":{"event_created_at_ms":1751069385356}}],"metadata":{"event_sent_at_ms":1751069385472}}

@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 3855
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: overview
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: opportunity_discovery
+x-csrf-token: cmy7SrA-ejRnZ6i7UX_xDVyUi6PpbbssXhbypL7AMbr4KBFmLlIjMeex-Ab67PbLDp_-v9R88eaJ5uA0vRZVuw
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: intercom-session-zlmaz2pu=bVdLK1dhb2ZXRy9pNDFTTXdlVlZPdDFtMlo4ZmYxNnB5Y0hQMzZCSmtQWWloYmtIekxoUGxLSlRDYVRPQVp2eEl6SmlJUE1SVEVlaVFaUEhnU0VLWTZ4NFAvRk1TUlM0azdoYTJiNW1pNkE9LS1YdUdaNHQrWlMvc1JmaTZqcXEwUzdRPT0=--0b261cfed6469a3f993118195d31487bebf9243d
+cookie: __Host-session=cFI0Zll6OXFxTTJvcS9sTGZuTG83cDJVSVI2UmRxNE9tOS9qQkp3T20vK1J5bUo2eWpxcDY0cmRaVjZkS29mNXJqNlAzZVA3V2RFMENBWlgrRVp6TVo4NHAxVVpRV1NlWXpDajlkZGgrVjIwcmhGWHRRYS9WTmpFd2dZT2daQnE4OEF0aExNSnlmQXAxNFg1Tk5zejQ1QVJGV2JaVVJpUDN5MXIxazZZV1lDYnl6c0RQOG5ERDBWT0RLbmJVYndjekRVd1VwNWhrZFovNlM5blJBYWdWSEFNWXh6UmRXV0xVRjQ5aFJoK3NMTnA4YTJhU05TZlU3U3BiUTNoTnR5NnE3alpPV0hNakZIZkJRaHJtM2ZPd0ZXMTQ4NUpUTm82Sk1lN3djcmd5WnpxN0o1Y09qQTlSK0I2enNIS2Rna05hUjZ5VVNmRU1YZTVEZWI0MFdYMWVEVlI0aFV3a1RCM01PV2V4OFljZjZjalF5SjU4WiszK1N5TkRNMGVnQlA5T1RCWktHMlhQeVJLdnFmemVYRlRJSlJXVVVsTVZtaDFCazgxMWpQU1c5dW5tbVk2TTBmRlZoNFA3V3M1eWlPYmkvdXUxSGh1cy9QK0hKUnIzVnFqcmNrS2lQbnh3ZlFjd2xFeW94cnk0Yzd2SU53WnpmaFhwZUxmRlcvd3lLVEM3dTJDMW9wQjNneFZTWHFJbEpuNTVvMTlESDhUOTVjUGtOVkpwMXJSc0djSjRaZmhxU1dCVjlUbUhYSlNTbEJ0VExHSitTOEpQaEFLalBodEtPSllObUd1LzNYRDNYa0lycW42a1FhK0RyN2hjdUxVanhOdGxzb0F2cHQ4dWI2dXR3K1pnR0F2cWlXcWpMOHd1RjRTTU9BbHFIbG5odGd0S1NZRkNQbDJzQlk9LS1FMFJPSU9qN2JpVHZ1ay9MeTBGQlFRPT0%3D--9e9fb4989bc981e719f9bd407ec3aa0772362da3
+priority: u=1, i
+
+{"operationName":"CurrentUser","variables":{"organizationHandle":null,"product_area":"opportunity_discovery","product_feature":"overview"},"query":"query CurrentUser($organizationHandle: String) {\n  organizations_admin: organizations(\n    where: {organization_members: {i_am_an_admin: true}}\n  ) {\n    total_count\n    __typename\n  }\n  features(first: 200) {\n    edges {\n      node {\n        id\n        key\n        enabled\n        disabled\n        global\n        opted_in\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  me {\n    id\n    _id\n    bio\n    name\n    email\n    signal\n    website\n    username\n    location\n    cleared\n    verified\n    teams {\n      exists\n      __typename\n    }\n    user_type\n    created_at\n    h1_pentester\n    totp_enabled\n    hackerone_triager\n    hackerone_employee\n    product_user_type\n    view_profile\n    has_active_ban\n    product_analytics {\n      id\n      amplitude_id\n      __typename\n    }\n    user_display_options {\n      id\n      __typename\n      theme_preference\n    }\n    profile_picture_small: profile_picture(size: small)\n    profile_picture_medium: profile_picture(size: medium)\n    profile_picture_xtralarge: profile_picture(size: xtralarge)\n    edit_unclaimed_profiles\n    i_can_view_gateway_v2_settings\n    i_can_see_hai\n    i_can_use_hai\n    i_can_toggle_my_features\n    features {\n      id\n      key\n      enabled\n      __typename\n    }\n    pentester_profile {\n      id\n      approved\n      h1_pentester_lead\n      __typename\n    }\n    active_ban {\n      id\n      starts_at\n      ends_at\n      duration_in_days\n      __typename\n    }\n    allow_pentester_application\n    organizations(\n      where: {organization_members: {is_me: true}}\n      order_by: {name: {_direction: ASC}}\n    ) {\n      nodes {\n        id\n        name\n        handle\n        profile_picture(size: small)\n        enabled: handle\n        hai_enabled\n        __typename\n      }\n      __typename\n    }\n    ...OrganizationsProviderFields\n    tutorials {\n      edges {\n        node {\n          id\n          type\n          complete\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment OrganizationsFields on Organization {\n  _id\n  id\n  handle\n  name\n  hai_enabled\n  profile_picture(size: small)\n  i_am_organization_admin\n  i_can_view_organization_assets\n  i_can_manage_organization_members\n  i_can_view_custom_benchmarks\n  triage_active\n  entry_vdp_only\n  teams(first: 1000, secure_order_by: {name: {_direction: ASC}}) {\n    nodes {\n      id\n      databaseId: _id\n      handle\n      name\n      is_team_member\n      profile_picture(size: small)\n      state\n      type\n      pentest {\n        id\n        databaseId: _id\n        state\n        start_date\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  consumption_subscriptions {\n    _id\n    id\n    __typename\n  }\n  organization_inboxes {\n    nodes {\n      id\n      _id\n      name\n      inbox_type\n      __typename\n    }\n    __typename\n  }\n  has_report_management\n  __typename\n}\n\nfragment OrganizationsProviderFields on User {\n  id\n  organizationByHandle: organizations(\n    first: 1\n    where: {handle: {_eq: $organizationHandle}}\n  ) {\n    nodes {\n      id\n      ...OrganizationsFields\n      __typename\n    }\n    __typename\n  }\n  firstNonSalesDemoOrganization: organizations(\n    first: 1\n    where: {sales_demo: {_eq: false}}\n  ) {\n    nodes {\n      id\n      ...OrganizationsFields\n      __typename\n    }\n    __typename\n  }\n  firstOrganization: organizations(first: 1) {\n    nodes {\n      id\n      ...OrganizationsFields\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n"}

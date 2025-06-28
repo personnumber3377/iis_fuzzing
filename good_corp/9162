@@ -1,0 +1,23 @@
+POST /github/collect HTTP/2.0
+content-length: 829
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://github.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://github.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: _octo=GH1.1.1861881513.1751070612
+cookie: logged_in=no
+cookie: cpu_bucket=md
+cookie: preferred_color_mode=light
+cookie: tz=Europe%2FHelsinki
+priority: u=4, i
+
+{"client_id":"1861881513.1751070612","events":[{"page":"https://github.com/personnumber3377?tab=repositories","title":"personnumber3377 (personnumber3377) / Repositories · GitHub","context":{"user_id":"63960351","user_login":"personnumber3377","referrer":"","request_id":"D760:34E176:227A66:23E861:685F3794","visitor_id":"7996720209113069460","region_edge":"fra","region_render":"fra","staff":"false","text":"\n        school_stuff","target":"https://github.com/personnumber3377/school_stuff"},"type":"analytics.click"}],"request_context":{"referrer":"","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36","screen_resolution":"1920x1200","browser_resolution":"1908x956","browser_languages":"en-US,en","pixel_ratio":1,"timestamp":1751070622016,"tz_seconds":10800}}

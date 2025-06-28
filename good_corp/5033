@@ -1,0 +1,21 @@
+POST /log?hasfast=true&authuser=0&format=json HTTP/2.0
+content-length: 691
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.youtube.com
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://www.youtube.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: NID=525=cnZ4zVrrCaZ7A6WmnNiK_Amrt49QDnihef27Vc9GM2Bs4t8CXKdNVKs6c8MSrtDNIJZESu54K8HjT2uvYx0LmNu-QQeLZOuI9udnfs54bVM5nMFCy2IlM7Iy5TixRE7ECRRFeSPXVEuMewRzs-KWo1iQ4Wtoz4hu3N37gW0KjyeCLGvUWU_0GFh4iJgxSMLKC-2dFHMvj7MLrNEpksJeif0P85wlxXQTqm3qUTcdFK4JvF83NIbi8sC58PWZ39bGpIfNxURZx9LouIpWxP7tp497fStwG9RhrZevhvJ6JgIHGKeFLR1njxYEgDxhVCk3Hws-
+priority: u=4, i
+
+[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"fi",null,"49",null,[[["Chromium","137"],["Not/A)Brand","24"]],0,"Linux","6.6.87","x86","","137.0.7151.103"],[3,0]]],1828,[["1751070054418",null,null,null,null,null,null,"[[[\"/client_streamz/bg/frs\",null,[\"mk\"],[[[[\"CLEn\"]],[null,1108]]]],[\"/client_streamz/bg/ec\",null,[\"en\",\"mk\"],[[[[\"t\"],[\"CLEn\"]],[1]],[[[\"n\"],[\"CLEn\"]],[1]]]],[\"/client_streamz/bg/el\",null,[\"en\",\"mk\"],[[[[\"t\"],[\"CLEn\"]],[null,50.70000000001164]],[[[\"n\"],[\"CLEn\"]],[null,4.2000000000116415]]]]]]",null,null,null,null,null,null,-10800,[null,null,null,"[null,null,[102195078]]"],null,null,null,null,1]],"1751070054418"]

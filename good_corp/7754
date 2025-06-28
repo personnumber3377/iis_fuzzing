@@ -1,0 +1,15 @@
+GET /pagead/sodar?id=sodar2&v=237&t=2&li=gpt_m202506250101&jk=596574282258613&bg=!IyClIG_NAAa-ZW9gnmU7ADQBe5WfOO6z_AkT1FByn1uacKoqtznbQ0Xogi5EJBbok2jJBFUkLqNANwWS_819cbv8XZ1HAgAAAE5SAAAADmgBB34ANnO27JBoM3s5EqxI0taApjFaoalKmlZwvlYH2nwWs6UB6iM7QVkpfhRXfyEh93m4vRmxLhqdo5kCoO0i-iqtS0uU0ztpuy7Kc_ed9gIEMYbvAg2J7LJZekF92NtdpOeGdKs8QaAQ4gu_T4X09YNE56_viAYREuz1ME_D1faUOdH_x9Dx72jrHf-D91FXw0KQ1947gUeAnpfXPAlfwNbq8m1yS4BX9CrvwIB97fcL5xo7ag6LQsYWz3-AdGJuIV-ephwezQ4IVjzlMoJ30i83GdPbKketegjbqJVTicUYR2QXgtJt8kEee1cmmXb7lgUrTjRrFEltKV7Vcgc-e9K9ucUkInUAbPojaQSrUbifbh14lejVmLhEWxPEq9TI7zgCasX5JF9hlxMeoTVVVnGelmLcRhnYDjsQuZvN0a6dvGmuC8ZZn93gkTJekDe7TWeKtoWTTUBJd408YDWyNLZM_wG8HMU4Mc8M1FJguSRn7xBYTtFAg-CQB-7eDAO_IO7I93OEaqVZq9koLEj8Y1btJbW-NvQzs-wgCB1zym2lyDaolaq10rAY8DtFFZsqdQfcJmXZ1CnsT0laCG4tlll13QE1n204OIwSXebu1vX9ORcso9WC124JT6ibakUJM3q_oLamS0_F-xX0rfvej8tUY2YfhcB15gW6yGJ4OSQF1xjTdDydpdlPV_DB3EU5w7IFHWva6fyZV4D3ma4obB3wwh0-d0q48nEN8gDkq77iAuxz2ijOhYkeUfeETwjqpyjnvktut5yz3bGUcJcixZjM5-LpydcnFJ_iN4_WFUNJD8u-Xl0pvQTpz0HE8Xa7LdhG7pZSJbAh88RuahVW8udVD8hoFM6_5mF-q9YQ1wNqlYQ_IUGSq01cwp1xoTO0I9SKzuS3WdbXR6tMhdxeqxMz-_AmA9zQus1sq0rUOLkpyhEsogHk2gEldulH2LNPVu3nXxQatoFOyWfyEg HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+sec-fetch-storage-access: active
+referer: https://stackoverflow.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: i
+

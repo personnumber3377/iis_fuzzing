@@ -1,0 +1,18 @@
+POST /pagead/gen_204?id=dv3-render&msg=tler&ord=4098947366891&version=m202505270101&ct=77&x=1&cor=18309290441387268000 HTTP/2.0
+content-length: 0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://googleads.g.doubleclick.net
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://googleads.g.doubleclick.net/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+

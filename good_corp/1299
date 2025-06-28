@@ -1,0 +1,35 @@
+POST /api/stats/qoe?fmt=247&afmt=251&cpn=GdYjFfXAhJaj9a8k&el=detailpage&content_v=QJQspMT0t-U&ns=yt&fexp=v1%2C23986026%2C18618%2C49741%2C512302%2C133212%2C14625955%2C11684381%2C53408%2C9105%2C22730%2C2821%2C106030%2C18644%2C14869%2C47210%2C15124%2C65%2C13526%2C391%2C26504%2C9252%2C3479%2C690%2C1829%2C1562%2C8949%2C23206%2C7703%2C7476%2C2%2C20221%2C7498%2C6476%2C869%2C4409%2C12346%2C2795%2C2596%2C1910%2C3746%2C2625%2C843%2C776%2C285%2C612%2C4081%2C683%2C739%2C1585%2C1883%2C1843%2C591%2C5345%2C309%2C455%2C2599%2C80%2C1644%2C2315%2C770%2C2312%2C5385%2C887%2C2416%2C1091%2C984%2C626%2C1817%2C534%2C515%2C2484%2C3170%2C269%2C346%2C1447%2C181%2C2322%2C1872%2C844%2C1299%2C798&cl=775466715&adformat=15_2_4&seq=3&adcontext=CAESEwjtzJOk55KOAxUH7jsCHYR8E9sgAygGMAE&docid=BcTf_BZ6ZwM&ei=JzBfaKOYPImYv_IP2uaWMQ&event=streamingstats&plid=AAY4lnSOTj-hI7K2&sourceid=ys&cbr=Chrome&cbrver=137.0.0.0&c=WEB&cver=2.20250626.01.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&bwe=655.499:1162320,655.504:1162320,660.933:1162320&bat=655.499:1:1,655.504:1:1,660.933:1:1&vis=655.499:3&cmt=655.499:4.723,655.504:4.723,660.933:4.723&bh=655.499:6.000,655.504:6.000,660.933:6.000&qclc=ChBHZFlqRmZYQWhKYWo5YThrEAM HTTP/2.0
+content-length: 226
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-form-factors: "Desktop"
+sec-ch-ua-wow64: ?0
+sec-ch-ua-arch: "x86"
+x-goog-visitor-id: CgszRHlSUHZES1hfNCi03vzCBjInCgJGSRIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAZ
+sec-ch-ua-full-version: "137.0.7151.103"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-platform-version: "6.6.87"
+accept: */*
+origin: https://www.youtube.com
+x-client-data: CLWKywE=
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/watch?v=QJQspMT0t-U
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: PREF=tz=Europe.Helsinki
+cookie: VISITOR_INFO1_LIVE=3DyRPvDKX_4
+cookie: VISITOR_PRIVACY_METADATA=CgJGSRIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAZ
+cookie: SOCS=CAISEwgDEgk3NzQ4NjQ0NzYaAmVuIAEaBgiA-OzCBg
+cookie: GPS=1
+cookie: YSC=x5XoxFZOtIM
+cookie: __Secure-ROLLOUT_TOKEN=CPmYnobF4qONEBDHzaqv44yOAxjm176w5pKOAw%3D%3D
+priority: u=1, i
+
+session_token=QUFFLUhqbUIxUHVCcUFoeUxSYktuc0h0TWRmLW95Q2F0d3xBQ3Jtc0ttMlhPbThvWHNZMkJ6V1hLTkFYcTJ5ZjdrTXZoaTZkMVRQcTJTSGRrYUJnb2VMMU16dFlyRTkyMzNUZXhOdWh4eXlBQUFtRGF0UUgxcmRrMUNKZGlwb09HcFFSaUNSQmM1MXhIaEc1MzFZS1FZTVpWdw%3D%3D

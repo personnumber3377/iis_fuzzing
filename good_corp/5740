@@ -1,0 +1,22 @@
+GET /api/rest_v1/page/summary/Surrender_of_Japan HTTP/2.0
+sec-ch-ua-platform: "Linux"
+accept-language: en
+accept: application/json; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/Summary/1.2.0"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-mobile: ?0
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://en.wikipedia.org/wiki/Nuclear_weapon
+accept-encoding: gzip, deflate, br, zstd
+cookie: WMF-Uniq=BFKd0K1oYOQKTwFz7PVllAIdAAEBAFvdt2i-o2R4o5Hv3d7W97a6WeruNHymeTXL
+cookie: WMF-Last-Access-Global=28-Jun-2025
+cookie: GeoIP=FI:18:Espoo:60.18:24.84:v4
+cookie: WMF-Last-Access=28-Jun-2025
+cookie: NetworkProbeLimit=0.001
+cookie: WMF-DP=3be
+cookie: enwikimwuser-sessionId=6e9a3502fa53580e40b8
+if-none-match: W/"1297651093/3da58ba0-536f-11f0-9712-47a2ed13f8d4"
+priority: u=1, i
+

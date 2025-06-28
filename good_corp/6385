@@ -1,0 +1,23 @@
+GET /personnumber3377/personnumber3377.github.io/graphs/participation?h=28&type=sparkline&w=155 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+x-requested-with: XMLHttpRequest
+x-fetch-nonce-to-validate: v2:4c20f9f7-42ad-4f07-2ef8-740fe33ac7b4
+accept: text/html
+x-fetch-nonce: v2:4c20f9f7-42ad-4f07-2ef8-740fe33ac7b4
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://github.com/personnumber3377?tab=repositories
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: _gh_sess=gbGVO5nperiDefHV7gMOdovQNM%2B4oTjfFNFhTeqW47ihiB9RoEcYAKF%2Fp%2BmbO0c4S7JarmfLOSHbPULyPDfu2lMFyw3wl3jnlgApwb2jtlfqq9lTm7djm4A9PLCmUq5U4C5qrlzjewwaJs7lsLAsUzHZGeansnbv4m9%2FwqgCHRN5WnLF7lbcxA7AdawOmx5OXJsPeDCXkifBh0Hl9N65AGr031b5EmWHyLwFTCNgWXjCsEQcZ6Ksn3Ztf%2BkS3BP%2FiNkCcHQG3hmFxpUJFu2K6w%3D%3D--DcIU0M4KhhEuxFe5--w2ibnhUa6oJrSF76%2FqH4ow%3D%3D
+cookie: _octo=GH1.1.1861881513.1751070612
+cookie: logged_in=no
+cookie: cpu_bucket=md
+cookie: preferred_color_mode=light
+cookie: tz=Europe%2FHelsinki
+priority: u=1, i
+

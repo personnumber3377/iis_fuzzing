@@ -1,0 +1,26 @@
+POST /svc/shreddit/events HTTP/2.0
+content-length: 1967
+sec-ch-ua-platform: "Linux"
+x-sh-microapp-route: feeds
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/PLAIN
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.reddit.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.reddit.com/r/Suomi/comments/1llxi47/jyv%C3%A4skyl%C3%A4l%C3%A4ist%C3%A4_h%C3%A4mm%C3%A4stytt%C3%A4%C3%A4_helsingin_liikenteen/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: loid=000000001seex9rge1.2.1751070390737.Z0FBQUFBQm9YemEydEpFUlg3YzBsYlpFTDFiVV9MZ0cyWFBjOVFBNUEtcVNueVVrTVdqenRhZjRCeHNOMS1BRVEwczJwT3kwSDR4RWR6YjlnWFBrNmZod0MtOHhneFphTl9aZW1DR2VwTWtOa0lQWFBuaE9GUVlNVDloUU5HandhaEdUdEpfb2JMOXY
+cookie: csrf_token=5478abbb8e9a83e0cb0a203d0ce89bf4
+cookie: token_v2=eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwiZXhwIjoxNzUxMTU2NzkwLjczNzUwOSwiaWF0IjoxNzUxMDcwMzkwLjczNzUwOSwianRpIjoibFpySlFRY0hnTEg2TjFveGdnNDdGTUtHSWZYZVV3IiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml8xc2VleDlyZ2UxIiwibGNhIjoxNzUxMDcwMzkwNzM3LCJzY3AiOiJlSnhra2RHT3REQUloZC1GYTVfZ2Y1VV9tMDF0Y1lhc0xRYW9rM243RFZvY2s3MDdjRDRwSFA5REtvcUZEQ1pYZ3FuQUJGZ1RyVERCUnVUOW5MbTNnMmlOZTh0WXNabkNCRm13RkRya21MR3NpUVFtZUpJYXl4c21vSUxOeUZ5dXRHTk5MVDBRSnFoY01yZUZIcGMyb2JrYmk1NmRHRlc1ckR5b3NWZmwwdGpHRkxZbnhqY2JxdzJwdUM2bk1rbkxRdmtzWHZUak45VzM5dm16X1NhMEo4T0txdW1CM2hsSkNHNHNmcGltM2Q5VGs1NnRDeGExOTNxUTJ1ZDYzSzU5MWl3ME83ZWY2X2xySXhtWFkyaC1KdnQzMXktaEE0ODhMelBxQUVhczRVY1pkbVFkX2xVSFVMbWdKR01KNHRNSTVNcmwyMzhKdG12VHY4YnRFejk4TS1LbU5feldETlJ6Q2VMUXBfSDFHd0FBX184UTFlVFIiLCJmbG8iOjF9.e43A6jHJhLyC5RGAsMZ3gJcSK02uDbQBYV-g7SOYQxuX7s4gnD3jPHdziDNxZYOczsQA5LHt42cdSzMyPIad-Ges7ie_tL3krjCwscn-cyh7pTmzRWg5OinuTQgJ-wW6XzoiqGvdMZ8qPQVL6BQhGN_qX2VSkeLgJEYnoLeqE1Dz1EyiTDRuT63AoOtVdJZAOEA0QvScGPNSiRmtghZk4mB3gsNmWlkmNwXdR25I_74Z63cMovqTVm0uAZL0RB97eIP5W4Rcbj03Bp9V8d4R-aLkbLdj6O0qEFzgN0s9ilehrNdGMg9G0x-5OAz8RS4qNarr7AhofoRC9GdtopAvOg
+cookie: csv=2
+cookie: edgebucket=2ytXgkLsQyErFtrIoS
+cookie: eu_cookie={%22opted%22:true%2C%22nonessential%22:true}
+cookie: session_tracker=nlqrmopdmmmkrjrqop.0.1751070430145.Z0FBQUFBQm9YemJlTENadV95c1NRakxFQUhYdjFFdjc1V3JsYVpkSFZtYnExb25lQ3RIYUw5b0h1bXhnWUlTNzFsZHRkY1dPdzhHUlNFUWluUVJsTmJpcVE5QmphV2kzbEdnRDQxdHR5QzlteXNCS1BqcHVzdmg1VVgwQV94SmE2cHNScGpqUk1xSjQ
+priority: u=1, i
+
+{"CSRF":"5478abbb8e9a83e0cb0a203d0ce89bf4","info":[{"correlation_id":"6e497903-b3fb-486f-ae28-34e788071b74","translation_metrics":{"translation_setting_state":"off","target_language":"en-US"},"view_stats":{"num_comments_consumed":10,"comments_consumed_json":"[{\"comment_id\":\"t1_n033p61\",\"comment_parent_id\":\"\",\"comment_depth\":0},{\"comment_id\":\"t1_n03a9v5\",\"comment_parent_id\":\"\",\"comment_depth\":0},{\"comment_id\":\"t1_n03wg5w\",\"comment_parent_id\":\"t1_n03a9v5\",\"comment_depth\":1},{\"comment_id\":\"t1_n04d48u\",\"comment_parent_id\":\"t1_n038ign\",\"comment_depth\":1},{\"comment_id\":\"t1_n03e0ih\",\"comment_parent_id\":\"t1_n038ign\",\"comment_depth\":1},{\"comment_id\":\"t1_n05nb0n\",\"comment_parent_id\":\"t1_n05hpjf\",\"comment_depth\":5},{\"comment_id\":\"t1_n04dpor\",\"comment_parent_id\":\"t1_n03lzwt\",\"comment_depth\":2},{\"comment_id\":\"t1_n04hdzc\",\"comment_parent_id\":\"t1_n04dpor\",\"comment_depth\":3},{\"comment_id\":\"t1_n03lzwt\",\"comment_parent_id\":\"t1_n038ign\",\"comment_depth\":1},{\"comment_id\":\"t1_n038ign\",\"comment_parent_id\":\"\",\"comment_depth\":0}]","comments_consumed_list":["t1_n033p61","t1_n03a9v5","t1_n03wg5w","t1_n04d48u","t1_n03e0ih","t1_n05nb0n","t1_n04dpor","t1_n04hdzc","t1_n03lzwt","t1_n038ign"]},"post":{"id":"t3_1llxi47","nsfw":false,"url":"https://v.redd.it/szy27lefsh9f1","created_timestamp":1751039858103,"type":"video","promoted":false,"domain":"v.redd.it","number_comments":124},"screen":{"height":1200,"width":1920},"action_info":{"page_request_id":"0b128c01-9787-4835-9714-b4edace4fd4c","page_type":"post_detail"},"source":"post","action":"consume","noun":"comments","referrer":{"url":"https://www.reddit.com/","domain":"www.reddit.com"},"client_timestamp":1751070432345,"feed":{"correlation_id":"7426afed-eca4-4530-bf57-a1103ca1ac33"},"request":{"canonical_url":"https://www.reddit.com/r/Suomi/comments/1llxi47/jyväskyläläistä_hämmästyttää_helsingin_liikenteen/"}}]}

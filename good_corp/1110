@@ -1,0 +1,19 @@
+GET /recaptcha/api2/aframe HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: iframe
+sec-fetch-storage-access: active
+referer: https://stackoverflow.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: NID=525=cnZ4zVrrCaZ7A6WmnNiK_Amrt49QDnihef27Vc9GM2Bs4t8CXKdNVKs6c8MSrtDNIJZESu54K8HjT2uvYx0LmNu-QQeLZOuI9udnfs54bVM5nMFCy2IlM7Iy5TixRE7ECRRFeSPXVEuMewRzs-KWo1iQ4Wtoz4hu3N37gW0KjyeCLGvUWU_0GFh4iJgxSMLKC-2dFHMvj7MLrNEpksJeif0P85wlxXQTqm3qUTcdFK4JvF83NIbi8sC58PWZ39bGpIfNxURZx9LouIpWxP7tp497fStwG9RhrZevhvJ6JgIHGKeFLR1njxYEgDxhVCk3Hws-
+priority: u=0, i
+

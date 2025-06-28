@@ -1,0 +1,24 @@
+POST /reports HTTP/2.0
+content-length: 553
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.reddit.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://www.reddit.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: loid=000000001seex9rge1.2.1751070390737.Z0FBQUFBQm9YemEydEpFUlg3YzBsYlpFTDFiVV9MZ0cyWFBjOVFBNUEtcVNueVVrTVdqenRhZjRCeHNOMS1BRVEwczJwT3kwSDR4RWR6YjlnWFBrNmZod0MtOHhneFphTl9aZW1DR2VwTWtOa0lQWFBuaE9GUVlNVDloUU5HandhaEdUdEpfb2JMOXY
+cookie: csrf_token=5478abbb8e9a83e0cb0a203d0ce89bf4
+cookie: token_v2=eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwiZXhwIjoxNzUxMTU2NzkwLjczNzUwOSwiaWF0IjoxNzUxMDcwMzkwLjczNzUwOSwianRpIjoibFpySlFRY0hnTEg2TjFveGdnNDdGTUtHSWZYZVV3IiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml8xc2VleDlyZ2UxIiwibGNhIjoxNzUxMDcwMzkwNzM3LCJzY3AiOiJlSnhra2RHT3REQUloZC1GYTVfZ2Y1VV9tMDF0Y1lhc0xRYW9rM243RFZvY2s3MDdjRDRwSFA5REtvcUZEQ1pYZ3FuQUJGZ1RyVERCUnVUOW5MbTNnMmlOZTh0WXNabkNCRm13RkRya21MR3NpUVFtZUpJYXl4c21vSUxOeUZ5dXRHTk5MVDBRSnFoY01yZUZIcGMyb2JrYmk1NmRHRlc1ckR5b3NWZmwwdGpHRkxZbnhqY2JxdzJwdUM2bk1rbkxRdmtzWHZUak45VzM5dm16X1NhMEo4T0txdW1CM2hsSkNHNHNmcGltM2Q5VGs1NnRDeGExOTNxUTJ1ZDYzSzU5MWl3ME83ZWY2X2xySXhtWFkyaC1KdnQzMXktaEE0ODhMelBxQUVhczRVY1pkbVFkX2xVSFVMbWdKR01KNHRNSTVNcmwyMzhKdG12VHY4YnRFejk4TS1LbU5feldETlJ6Q2VMUXBfSDFHd0FBX184UTFlVFIiLCJmbG8iOjF9.e43A6jHJhLyC5RGAsMZ3gJcSK02uDbQBYV-g7SOYQxuX7s4gnD3jPHdziDNxZYOczsQA5LHt42cdSzMyPIad-Ges7ie_tL3krjCwscn-cyh7pTmzRWg5OinuTQgJ-wW6XzoiqGvdMZ8qPQVL6BQhGN_qX2VSkeLgJEYnoLeqE1Dz1EyiTDRuT63AoOtVdJZAOEA0QvScGPNSiRmtghZk4mB3gsNmWlkmNwXdR25I_74Z63cMovqTVm0uAZL0RB97eIP5W4Rcbj03Bp9V8d4R-aLkbLdj6O0qEFzgN0s9ilehrNdGMg9G0x-5OAz8RS4qNarr7AhofoRC9GdtopAvOg
+cookie: csv=2
+cookie: edgebucket=2ytXgkLsQyErFtrIoS
+cookie: session_tracker=nlqrmopdmmmkrjrqop.0.1751070432301.Z0FBQUFBQm9YemJnalFEbjhqQVZpZEhVNHR2VTJyZFlLZ2YtYzVsN0FRaHpBaFlkcjZvYnJVdWpXQktZeEVRcVhlQlNkVUFpVGhnSHJVQ0RQLWpSeEhuNnVtVTNkU21UeXBjWXpMY0EtVEtKYlUzdUxsNnN4eGtOcExZS2Raa3BIdDdqdXAxNDd2Qmo
+priority: u=4, i
+
+[{"age":1,"type":"reddit-w3reporting","url":"","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36","body":{"sampling_fraction":0.99,"type":"histogram","name":"shreddit_cumulative_layout_shift","value":0.11260637660421098,"labels":{"device_type":"desktop","is_logged_in":"false","microapp_deployment":"production","microapp_name":"pdp","microapp_pool":"logged-out","page_type":"post_detail","route_name":"post_page","hybrid_nav":"false","comments_lit_ssr":"unknown","is_cached":"false"}}}]

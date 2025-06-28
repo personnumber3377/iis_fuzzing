@@ -1,0 +1,21 @@
+POST /monitoring?o=4508166415056896&p=4508176786784336&r=de HTTP/2.0
+content-length: 311
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.tuohi.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.tuohi.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: __cflb=0N1X7dRyiNsdKoLDQko4eDoE3YBnrnegeexH9C93E5964D1rmbYvdCkwdAiuvJFX1iCmryhWvYcAamBVr73BbjXa
+priority: u=1, i
+
+{"dsn":"https://f6c0352c5bce4e91d07b61e6d2cc9933@o4508166415056896.ingest.de.sentry.io/4508176786784336"}
+{"type":"client_report"}
+{"timestamp":1751070457.976,"discarded_events":[{"reason":"ratelimit_backoff","category":"transaction","quantity":1},{"reason":"ratelimit_backoff","category":"span","quantity":1}]}

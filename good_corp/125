@@ -1,0 +1,28 @@
+GET /opportunities HTTP/2.0
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-full-version: "137.0.7151.103"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua-platform-version: "6.6.87"
+sec-ch-ua-model: ""
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070274034
+cookie: __Host-session=YVpuV2luTklkVFE3K0lqSzhIYVNkM2Y4M3d3SUdxS2VPNHhHUm4zczExSFA0djlmeXhWZWFtQUE1VVdvWWowMlJrZmgrYTBQdEFqOUgyN1Y5bUIxQ1YxNW1PWk9Pb3MxMVE0U09rMGx2MUxkWkVNL2F2blBDMy91Rzh0UjhLT1F3WWgzVVdsYzFqbHp0ZjEzOWlDcXFmWXU2bVJMZUNBUk8yRnlpclNBK3hZZ0lzcWNWTXFGOGlzQ0w1WVdtdU83UXlIeVRLNjBheUYwVDNIb2pXaDFtdHVYbitnL0dkTVlINVZ4M2toWFEzUjFTKzFxeVdrdzdkNU1NdmxjZFF6STBGQmMwTzh5T25iL0dRQzROQWE4YnRRMVVWdTNQWXBaa1Nibi9adVZKK2VSVFpyUUpqSFJ1ZDNVSGZodXRsei9tWFVQNnF6eC82L2tuYjh1ZFhoMXB1ck10aXBDMU4zdXZxVHh4cUJQRldNZis3b1RpR21idUlmK1NpSFNOYlUxc2Njdy8xUE41Z1hyTDdGbzdBUlJ4Ni9sdUpMemVZWGwwckl3VlRFNk5sT2xCNDZOYUhIYUorbHg1Q1loN0dMblhEMWxzK0V2bDU2Q04wRzNrYWRiR29sZzNRTThrVTJuZjRBN1RrRkdLM09oRGV1YlZRM01INXp5SGhLMGg4dHdGekFVdGtxa1E0TTVOTHdJY0FmMThwNWUvZFNrZnZqem80TkptaSswdlB4dk01ZHQ1MUF0YjhkaHhzZTE1MllEUU5IbzZtRXV5dE43blJNL1VVY1VSdW1BVGwvOGdVajZjdDQzSjNZOTlHVDFZS1lYUU55VWhscjJtZzR2TzBqcTU3NmpLMldRZ0w4amZ1Z1lxZTZSZXZRUkFyNFNsaHRlazZSZTJIaE1xZzFQWEQvWS9TQnVXU2paSXYzbG5QcllaUEhYcE84WFI3b1hFa1k0c0xLSXVFUG51cUNVMHR3VTkyeTQ5c3RNaFdIUisxRi9EZ2RLNVBuenk2Vlg1dXFCakNBZnMyRnpRdFlTVng3d2l6ZW8vZHIvMFBhZFVvVlIrMWZzOUpqUEQrZz0tLWFhZ0plSWx5eWZibHFiZWRlMEVjTWc9PQ%3D%3D--247f0bc0e7b89af5182e4fa8de4790e163e51c22
+priority: u=0, i
+

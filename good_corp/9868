@@ -1,0 +1,19 @@
+GET /config?table_id=starburstgar96f0&client_version=6.20250627.233727.52882-f43d60452b HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://st8.evo-games.com/frontend/evo/r2/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: EVOSESSIONID=seb277x3vfbr53b5s6z65gtcwxkenahe010f8f5a38d68f472ccfe2824a75114578e31a51c4a4ad87
+cookie: cdn=https://static.egcdn.com
+cookie: lang=fi
+cookie: locale=fi
+priority: u=1, i
+

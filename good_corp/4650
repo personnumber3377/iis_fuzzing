@@ -1,0 +1,30 @@
+GET /s/gaming/emoji/7ff574f2/emoji_u1f923.png HTTP/2.0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-form-factors: "Desktop"
+sec-ch-ua-wow64: ?0
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+x-client-data: CLWKywE=
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://www.youtube.com/watch?v=QJQspMT0t-U
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: PREF=tz=Europe.Helsinki
+cookie: VISITOR_INFO1_LIVE=3DyRPvDKX_4
+cookie: VISITOR_PRIVACY_METADATA=CgJGSRIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAZ
+cookie: SOCS=CAISEwgDEgk3NzQ4NjQ0NzYaAmVuIAEaBgiA-OzCBg
+cookie: GPS=1
+cookie: YSC=x5XoxFZOtIM
+cookie: __Secure-ROLLOUT_TOKEN=CPmYnobF4qONEBDHzaqv44yOAxjm176w5pKOAw%3D%3D
+priority: i
+

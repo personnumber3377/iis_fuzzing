@@ -1,0 +1,21 @@
+GET /w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=1eyfx HTTP/2.0
+origin: https://en.wikipedia.org
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: image
+referer: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: WMF-Uniq=BFKd0K1oYOQKTwFz7PVllAIdAAEBAFvdt2i-o2R4o5Hv3d7W97a6WeruNHymeTXL
+cookie: WMF-Last-Access-Global=28-Jun-2025
+cookie: GeoIP=FI:18:Espoo:60.18:24.84:v4
+cookie: WMF-Last-Access=28-Jun-2025
+cookie: NetworkProbeLimit=0.001
+cookie: WMF-DP=3be
+priority: i
+

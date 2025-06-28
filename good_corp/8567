@@ -1,0 +1,21 @@
+POST /minor-save?continue=https://www.google.com/search?q%3Dhttp%2Bmultipart%2Bform%2Brequest%2Bexample%2Bapplication%26oq%3Dhttp%2Bmultipart%2Bform%2Brequest%2Bexample%2Bapplication%26gs_lcrp%3DEgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDczNDFqMGo3qAIIsAIB8QXh_Ym_YLWQVg%26client%3Dubuntu-chr%26sourceid%3Dchrome%26ie%3DUTF-8&gl=FI&pc=srp&m=0&bl=gws_20250624-0_RC1&hl=fi&mssrc=1&ca=e HTTP/2.0
+content-length: 0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.google.com
+x-client-data: CLWKywE=
+sec-fetch-site: same-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.google.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: AEC=AVh_V2izLWHMF02RtzSw5K-3DSR2y4WWLGbIF2w1vVmn6lzGYBx9FUgHlg
+cookie: SOCS=CAISHAgCEhJnd3NfMjAyNTA2MjQtMF9SQzEaAmZpIAEaBgiAvvfCBg
+cookie: NID=525=KAs80Yufpix5zGq1YQpMFWpHmUGXH52yQ4HSoim3aucbH_YOa4WiufQ8nrTEl_HuikMBGelgz1QWtsqOsTfA6cPt1puTtuCY2of5kelG6l8UFGhzPAanFe2aMmBPq2kF81CqUjic70bbC6w-HkcTSk6V7THRYZmA-HYE92H-AalCFHMbEpeQAA1453_Lq2zNMtB0-_EVkK_BzQxlIjjCG6IXIc2hS5zOf2a9EBZ_pGGlkSwPia-ADGTLcDx0uc7OZav-3YTu3KzAnDUfb9-4TUG_vcPl9pdMutjwgg9RhdWxQgcfSCs8rjnfjH-b
+priority: u=1, i
+

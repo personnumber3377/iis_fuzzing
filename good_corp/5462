@@ -1,0 +1,5 @@
+CONNECT / HTTP/1.1
+Host: cdn-ima.33across.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+

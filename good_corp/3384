@@ -1,0 +1,18 @@
+GET /cdn/shop/t/1/assets/product-form.js?v=82553749319723712671734784368 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: script
+referer: https://bebek.fi/collections/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: keep_alive=eyJ2IjoyLCJ0cyI6MTc1MTA2OTM3OTE1OSwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjoxNCwiY2EiOjAsImthIjowLCJzYSI6MCwidGEiOjAsImtiYSI6MCwidCI6NTcsIm5tIjoxLCJtcyI6MC4zOCwibWoiOjAuOTQsIm1zcCI6MC43OCwidmMiOjAsImNwIjowLCJyYyI6MCwia2oiOjAsImtpIjowLCJzcyI6MCwic2oiOjAsInNzbSI6MCwic3AiOjAsInRzIjowLCJ0aiI6MCwidHAiOjAsInRzbSI6MH0sInNlcyI6eyJwIjoxLCJzIjoxNzUxMDY5MzIxOTk3LCJkIjo1M319
+cookie: _ga_XS4TT1TX37=GS2.1.s1751069322$o2$g0$t1751069380$j2$l0$h0
+

@@ -1,0 +1,17 @@
+POST /api/30/security/?sentry_key=374aea95847f4040a69f9c8d49a3a59d&sentry_environment=production HTTP/2.0
+content-length: 2078
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: application/csp-report
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://hackerone.com
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: report
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+
+{"csp-report":{"document-uri":"about","referrer":"https://hackerone.com/opportunities/all","violated-directive":"connect-src","effective-directive":"connect-src","original-policy":"default-src 'none'; base-uri 'self'; child-src 'self' www.youtube-nocookie.com a5s.hackerone-ext-content.com intercom-sheets.com www.intercom-reporting.com www.youtube.com player.vimeo.com fast.wistia.net www.loom.com checkout.stripe.com; connect-src 'self' data: errors.hackerone.net *.browser-intake-datadoghq.com browser-intake-datadoghq.com hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com wss://nexus-websocket-a.intercom.io api-iam.intercom.io via.intercom.io uploads.intercomcdn.com checkout.stripe.com; font-src 'self' fonts.intercomcdn.com js.intercomcdn.com fonts.gstatic.com; form-action 'self' intercom.help api-iam.intercom.io api-iam.eu.intercom.io api-iam.au.intercom.io calendly.com messenger-apps.intercom.io messenger-apps.intercom.io/statuspage/view_status js.intercomcdn.com; frame-ancestors 'none'; frame-src blob: hackerone.integration-configuration.com api-iam.intercom.io/messenger/web/metrics intercom-sheets.com a5s.hackerone-ext-content.com www.youtube.com youtube.com www.loom.com checkout.stripe.com js.stripe.com; img-src data: blob: *; media-src 'self' marketing-assets.hackerone-user-content.com hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com js.intercomcdn.com hackerone.com video-messages.intercomcdn.com; object-src blob: data:; script-src 'self' js.intercomcdn.com widget.intercom.io/widget/zlmaz2pu checkout.stripe.com js.stripe.com 'nonce-s+xYo9pcTi4RdNYb59DqhGrZEzmPVSjU7SdhBHHWJ6k='; style-src 'self' 'unsafe-inline' fonts.googleapis.com checkout.stripe.com; report-uri https://errors.hackerone.net/api/30/security/?sentry_key=374aea95847f4040a69f9c8d49a3a59d&sentry_environment=production","disposition":"enforce","blocked-uri":"https://nexus-websocket-b.intercom.io/","line-number":1,"column-number":360923,"source-file":"https://js.intercomcdn.com/frame-modern.8616a2e2.js","status-code":0,"script-sample":""}}

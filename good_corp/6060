@@ -1,0 +1,17 @@
+GET /sync?nid=154&google_gid=CAESEEBi-Qb1DKTW89kHdubj4bw&google_cver=1&google_push=AXcoOmSJO2mCCgA32DBoFk7eM3oQxacdpHExVMgFyk4dln52UeVC1ozv40Z-GSxzbWKQwR1mjQ2wKQMf37Z2JEx-kSyoylt5n2LVskk&gdpr=1&gdpr_consent=CQTqrYAQTqrYAEsACBENBxFoAP_gAEPgABaoK1ID_C7EbCFCiLp3IKMEMAhHQBBAYsQwAAaBAwAADBIQIAQCgkEYBASAFCACCAAAKCSBAAAgCAAAAUAAYAAVAABEAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEEEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEXCuQUYIYBCugCAAxYhgAA0CBgAAGCQgQAgFJIIkCAEAIEAAEAAAQEgCAABQABAAAIAAgAAqAACIABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIIIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA HTTP/1.1
+Host: sync.srv.stackadapt.com
+Connection: keep-alive
+sec-ch-ua-platform: "Linux"
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Sec-Fetch-Storage-Access: active
+Referer: https://pagead2.googlesyndication.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: sa-user-id=s%3A0-36b92af9-e0d2-5367-53be-0d597735904a.%2BwEN7Ps1PF%2BA%2BaDSuoq4EjnpEbJ0S0wwaOXKUdFR1zA; sa-user-id=s%3A0-36b92af9-e0d2-5367-53be-0d597735904a.%2BwEN7Ps1PF%2BA%2BaDSuoq4EjnpEbJ0S0wwaOXKUdFR1zA; sa-user-id-v2=s%3ANrkq-eDSU2dTvg1ZdzWQSlKCD54.HZBK54KYfTrMrz48FISrdTEbqInulVMsXCs%2FVLBPsl8; sa-user-id-v2=s%3ANrkq-eDSU2dTvg1ZdzWQSlKCD54.HZBK54KYfTrMrz48FISrdTEbqInulVMsXCs%2FVLBPsl8; sa-user-id-v3=s%3AAQAKIK75cTGjYlPkqJwLHEHaNvV8PG9ZaHffFU3Kx8OlficnENYBGAQgrt_8wgYwAToENQ0nvUIEAE54hw.igJRUj2TVf1%2BzY2Nm8vhO1m%2FJUD9hlRg%2F7KKghFuHqA; sa-user-id-v3=s%3AAQAKIK75cTGjYlPkqJwLHEHaNvV8PG9ZaHffFU3Kx8OlficnENYBGAQgrt_8wgYwAToENQ0nvUIEAE54hw.igJRUj2TVf1%2BzY2Nm8vhO1m%2FJUD9hlRg%2F7KKghFuHqA
+

@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 605
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=fefe31c710b24a8c9bea0c26ac506510
+sentry-trace: fefe31c710b24a8c9bea0c26ac506510-879bc37c11813690
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=3133600&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: __Host-session=NEx3QnJmUWVMcmdTWkQzaW5LN09oaXl6dnIrVnAwTWhvRHBIandBd1V4dnZQR1FNclIrVHpsc0cvOGFTT2ppK0R3Rmx4T09zRWJiYUlaNmJiTjhyMzQzYjRrNG80U21FdzlobFlTcW9aZmFpd3Jtdmlvems5N1hUR2FCSG1rU2F4TnZSaU8rOGlPdlU4amFLNjRka0QwZXplWVVhbHU3eFJ1SUl2UEg4SFdzWVJJN0t1bVo1N1hOTmxtNE5sL1J5czA0R29OaUsydW9nbWRvM20xbkdscnQzdHExVWJPbVphRDJrSkxIcTRaWXVVamN4em9DaGhhRndCRnVRTWw1akwyVEF1eXZpTE5xZFo0cEZBN2k1MVoxZnYrQStjUU1aWTMvYWh1OUk4cGVxcUVCSXZuL3BlK1lqN3RNaWN2VGIyNWs5NnRLMWJvWDM1WGI2SlA5SEY3WGxGRnJsdlBkMWR4NnVIdUJKS3IzTUJhS0M3RldNcy9WV0w0d1lTZVZQTlJOd1dGTUdwVXo2TUdUTzV4am9WSzJGcGlZbXlldUp5WCtzeEVUYUVUcXppZkl4NFpMYzliMnlJdlpzWFNuZGM1dGJVV0tRQWhQMUpFYk44MVowU1ZQS3ZtbnV1S3hZQTliZDZsekdIQi9LZERDeHMzZUJzS0htaUcwd3lLeDhlMmNXOGg4TXh3ZXd3SjZIdUhFNjN1bEk4RW1uRnpBR1RsMjhSU3BJOVE1VUYvbHpHRFVqbEJBd1ZkK0NROUpOellFUU40RmN5Uit4MFJnOEZERWxzdmc2eVJzQ1g5QjNHWUVndWdSQnpoaGVMWVhCRUFyeC8rNWhQOWFhcnBjK01sVEdHVEQvZTJoanZ5YUlrWEFySVhHUkpxL1NOYUJ3VTBzRm5lWHRyakU9LS1rQUl4cTc4UXcwZ2RBd3EwK28vcFJBPT0%3D--62ff01ea686a3c26f25f2f1a85212d96b213612b
+cookie: _dd_s=rum=0&expire=1751070233099
+priority: u=1, i
+
+{"operationName":"ReportPage","variables":{"database_id":3133600,"first":1,"product_area":"reports","product_feature":"inbox"},"query":"query ReportPage($database_id: Int!, $first: Int) {\n  me {\n    id\n    hackerone_triager\n    __typename\n  }\n  reports(database_id: $database_id, first: $first) {\n    edges {\n      node {\n        id\n        team {\n          id\n          i_can_manage_custom_fields\n          __typename\n        }\n        custom_fields {\n          total_count\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}

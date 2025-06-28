@@ -1,0 +1,15 @@
+GET /public/horizon?gameType=starburstgalaxy&tableId=starburstgar96f0&EVOSESSIONID=seb277x3vfbr53b5s6z65gtcwxkenahe010f8f5a38d68f472ccfe2824a75114578e31a51c4a4ad87&balanceId=demo-st80000000000001-cGxheWluZ2d1ZXN0MDAzNw%3D%3D-67ebafaf-9b06-4443-a9e0-d6e294e4d7d5&client_version=6.20250627.233727.52882-f43d60452b&instance=luz31e-seb277x3vfbr53b5-starburstgar96f0 HTTP/1.1
+Host: st8.evo-games.com
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://st8.evo-games.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: EVOSESSIONID=seb277x3vfbr53b5s6z65gtcwxkenahe010f8f5a38d68f472ccfe2824a75114578e31a51c4a4ad87; cdn=https://static.egcdn.com; lang=fi; locale=fi
+Sec-WebSocket-Key: 0md+4VTke4I2d1/SF67ojQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+

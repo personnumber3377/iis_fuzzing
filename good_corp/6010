@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 270
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=f9d14162b1a546e4a6dd8906512d821e
+sentry-trace: f9d14162b1a546e4a6dd8906512d821e-ba62c7d281c2c319
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=2783043&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070255128
+cookie: __Host-session=dkhVK29jc3p0WmcrUE5yaURMZDdFR2JsbEZIbXRQL1BpSWwxY01VYUZUdmpYYndmT3l4RUVtb2pqWFhCVHREVEt5ZVhsbEs0U2g3VjlCSEd5WkZTM0RLWXNLU0ZmNzRYc0Y0cnB3alo4YzhUWVcxMVlJUkhMRnpHZ0VPZEh0eVZ2WTVuRjU2cGVLNjVzTGpyOHhtVzhQS0paYlRZSmNSWUlzZjRsV1I2b1ZnUjczSnI0Qm5KRnd2YmdEYXlLMDViSzJPeWVEUU1LVXJrOUV5dm54c285VWNQb3ppSU51czkxN1ZjbG9ZcmswLzNNUng2TlRUTks5SEJ3T2xpWTFUTk1JRlRVbUFIdVJvYmdaMTFxTlhGcGhIVHZPa2ZpWms3RXhuRS9pdjladnlQaC9HZlR4TEp2aEt4TExaS0hNMHd2UVBKVWRzN0tUcmtXSXdGMCs3aG9GdGRubTJLSTlaYjUzeHB3SElzZnNpc1BlVHkzSmtVSGp4eDAzV0FzcktkcXRZRCsvbEdma2xVVUdYU2Y3UFgyWUk2MGNicjllVm5GWDFRcmhaMnlJK2U0NFFVT1hLdVNHcnpPV0M5dGxpVWZWNzA5UjQ2UDVKdDVXU1krL1VDU0JvblpKc0FVTHVGSHZ6SnlndW1UVXBibi95dHNZcVllNWhvdm1Nc1dOMWNvTFh3MGk3Zzk1c1V6NDJ6T0k3QVE4YWx4SkM5ZWtvUUlsVFRQdjZ6R2J0OEdUZVhVaEFRdWpaZXYzcUhrUDdMQnh6UFVEWm5WMkNDOHZCSTh4MkE3UlZxNjdrOFNqakk4ZFlOb1BBTzZ6ODc1N1FKMmx2aytpYjZaOTZIVkthc1BLd2o2VWowOHNIblpMTVg1RjNkSFBicGdjaEdtNGtIdGxRVXRIeGg2ZUk9LS1jaXVpNEs2dlBuU0ZmcHFCU3VqNWN3PT0%3D--98c96d1fa0f33b28fe50f52df33327ec60caab8a
+priority: u=1, i
+
+{"operationName":"TestimonialsCtaQuery","variables":{"reportId":2783043,"product_area":"reports","product_feature":"inbox"},"query":"query TestimonialsCtaQuery($reportId: Int!) {\n  report(id: $reportId) {\n    id\n    i_can_write_testimonial\n    __typename\n  }\n}\n"}

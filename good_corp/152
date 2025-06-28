@@ -1,0 +1,15 @@
+GET /js/jquery-3.5.1.min.dc5e7f18c8.js?site=63c58849a05fd52eeca11844 HTTP/2.0
+origin: https://www.lifeattinder.com
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: script
+referer: https://www.lifeattinder.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1
+

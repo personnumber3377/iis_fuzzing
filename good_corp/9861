@@ -1,0 +1,33 @@
+POST /bugs.json?subject=user&report_id=0&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1 HTTP/2.0
+content-length: 0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=c9699374cc7d48229ac78b4827eccc82
+sentry-trace: c9699374cc7d48229ac78b4827eccc82-902291ff163ce5ef
+sec-ch-ua-arch: "x86"
+x-requested-with: XMLHttpRequest
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: application/json, text/javascript, */*; q=0.01
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070227241
+cookie: __Host-session=VEw1Q3IwTDhFcklHZjlFWmxVV3pCKzcrRVRXcGxNRXQxZ3RSRmtjTEhYSGNaZkFoRXJYSDNNVnNGd2l2V3FvN3dORERWM3k2QldBOERPcFErUG1UU0JHem5PK1Q0amtlSE5jOEpTUFpkQUdBb0FYSVlUNnp5amM5M0RPR043NWhERmxiVmlyZVhRZ216NldzTWgyQktGZ2ltWnZNMjYxR1Roc2xqN0ttVlQ2RHpJSmhZcTNNWkJyWENlcnJ0TTFaUDZwVE9KK0JCM0JxMjJiNThBUHJQd0srOVF5Y2NlUWhwSk51Z1A3MlJnM1Y1MXNPQ1lQVmdoRmVtaVJqcmM1ZkdSTVFLQktUbHlaZ3MwdWlYOHpkSEpJcnVTV1R0NUlxUlhiaThvc2lKdC9XR1E2dC92aFhWS3NSQUlQbGZ3ZkZtUmVxTGZwaEY5ZmdJeXU4WlNFUTc0STNpZmZtQ0FPVTZYVkdmS094S2t6Q0Z5UFFPSDZ6TVhXcEM4dGpYRUdMekxlNWNob0RnQm9WNTczKzhmTk9pb1hOMThFN1dCWERSamF6cDhrd1BIZkV5cGVWT0xJQXFMS3B1VkJDUlNVeGFUOEZ4WXd3a1ZrMWpXYmdhMDhVMHd2OGNtZXlTbTFWckk1aHFmcDBxUDZsSm5lWklyazFhZE5LSUgvU0NDeHBkUkFOdGg2NUY4ZDVtNCtCNnJPTTJxUzh1cFE5WVUza3ZTVU9xc3cxb2J3YXBYc2psbFp3MW9WeVBCSm94SjcyL0RycGJWK0h5TFhGOFJ5akhmQmpoRDM2WWUxV0RQRDI0dGNucDlRdlpoRHoxMDRWRTZHTnhUTDJmOGVUbzdrV3VjKytuSE44MFNVL2lWZEZHdEVwekluejNTU1lEZGg3Y1VZNHgxeEwxQVE9LS1sOGg2dWNQN29uNzRQV1NELzJTVkdRPT0%3D--5fa08969a41de9816502e5bece85e88511b8b0a0
+priority: u=1, i
+

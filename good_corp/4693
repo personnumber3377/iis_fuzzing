@@ -1,0 +1,22 @@
+GET /xbbe/pixel?d=CJfnugEQ0-KBvxkYys-MvAIwAQ&v=APEucNUlkqFpBd4vQduI41b0ouiW5ztdPIDdHI2JwNzxsaNt9w_pTv0FKp8_kpvYLd-ZOi-K1k4AO0AL8EvULDUNSfB8S2n-Td0qxjyiO9IjmflqyMkf4CCoButKhK-WX0UHLKriO7CPxtxwnmYGOtCSeeJlvmEGtWs9Rz2vFtlmohE8dW1Cwkz9RCevJm4_4qLdZqFCYYLGx7vX253Nq2K3ucD4CN-oiTRo_U3c6ceheJyv1CwZlrxLipr-fC-7XElOSyckg-DPw5yvWr2N8YMpIZCW3QxC4EDrxATLrgU01EQfcOgzhNjXARLPB3v5NicqaVohXsC05Lp-l-VrTd3KvESJvrhcB_32lQ5a7dWa8rh-Lu_mj_SPQPpZTHuGeRJrxZzPmTrLw_t3rT1M5VFFw98ASmRQuAsfaicBD8wxNm0tEBK7s0Kq4dDgqGamCJQwuhAwzQvne-bODoGPWmfiPLtzxRMDV0LD9tW8rtXsvRbtJnDhq01KsVS3jC_CR1317Mqaou419Oe_c8N3mDSLgzF3rVXs8j_px605ImKGvNYxSowxCxx8Czqg5iAe2bje-mpypNdGUhiU7e8ZIE2o1Q86uIA5WTJ8qa330TFspoynEIOEDveDGWzoXLzXkblK9sFZSQP_wyc_qMTju14YQgTa7sE2hHIcUJitbrzvaKA4kRo91vompLcluB_W-BfLA44fTG8M8TJD7gff6LZNxgsIeW07c0JfRH1DNIfwDy52ElyihWLW2t4ofmsLAtvRdqgPqoUsUxrFLjFJwx5M9fE27AGT5mrrL-Lrg2ocitb1tJHV9yNDoRmpx0sVTerKuT8EOZTqU4-9xs6Ih22M9IVm1D-m-zVe2uKyUpesGL1QDbRozjqw1_p6ub_HtNwlGoimy0N7mYzlnlMLCe6W3VJkYUvjes5X_9f-CRrYD0iAHtLCsBtnvME5na0wfbUMXU2WpkmPmOUVWPaq_KF69TJIA49GFABrHEdsrWWZWLYfoAfjUtiPPu9nxinWqy5YEvbSv6DrtMRqSZHFRsY_2VNiy2VU-qtC-FF1qFzZbrs5Qf4_2Tg HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+x-client-data: CLWKywE=
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-dest: iframe
+sec-fetch-storage-access: active
+referer: https://googleads.g.doubleclick.net/pagead/html/r20250625/r20190131/zrt_lookup_fy2021.html
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: IDE=AHWqTUmuGHLAnTfsbyyZWo1NUoFooPEj-RlTXlfidXxI3SgUzo_IqlP_UDnd_ZxHsaM
+cookie: receive-cookie-deprecation=1
+cookie: APC=AfxxVi47-pIZIWbusw2_HxsgCrFV7uKQochmEpi89DJS01TfPADTDg
+cookie: ar_debug=1
+cookie: DSID=NO_DATA
+priority: u=0, i
+

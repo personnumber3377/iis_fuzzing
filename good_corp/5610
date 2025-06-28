@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 660
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=fefe31c710b24a8c9bea0c26ac506510
+sentry-trace: fefe31c710b24a8c9bea0c26ac506510-879bc37c11813690
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=3133600&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: __Host-session=U3JsVWVQRXBWblpuQmd1VXYybTVJSndxN2w5NG1vMkFpb1I0cjdQUEZVSnltQVdWZXM0bThLNC9vUFJOcnhTd3V1ZVk0TlVVa1ZkRHZlVXFaYUt2QzVvZmxnSkVrSnlwY0gyVlpwaW55MGJpMWF4cHZ0TzkwWGl3R3NPQzBhZWpNaExCNmdycHlDclpRaldBeFNVMjEvWkZmUHpna1dyQVYvWjZLL1BrRDlIQVF4d052Wkk4RUFsUG5nRTdwNnlBR096YmdNM0tLaUNQVE9mVzdrZnNVZVMzSzFxRXdpTUxyenBVQXBoaDRzbFcxdjh0OHpMNnFpejRFdjdrb2Z4cmc0Vkx3bC9LdHc5OGlTUnp1TTY1cmNwN1MvN0F3djBiM09vakN1NG5aTVJHUmxNK3JOYXNHelJLZWhlSkF5dEVsTWZlbUlxMFJUK1ZYVUJLQ2RqOGFPMW5ZREluVlpnNzhNRnVaY3c4ellwRmZqWW1tSmpOOEFvaXFpMFdNbjhpcmVjalBHK1Q3UjRnRSs0bWl3cFJTRmlkdElJZzU5bU9vVE02bEptWjFWTXVCWlF2cHcyZkNZcGZZbFdURS8yWHZxM2xxLzFocERTeHoxYmVMaHZUUUFlcjV4dXNoeEYxNEw0N1A2MjlBOWxuQjFXMVBmb3hpQkpzc0w5ZGM0TWZhbnJweTVRUnNZZGtiaUt2TnZLcDFuU2RPdUQ5dmFaOURwVlFhRzV5WFE3SERhOE1IYXZLK3F5MDh0Sm4wcndQUURBMGdFU0cxdys0aUhtNnRMRXd6bWlFWnlrWVBqb01BMFpHMi9nOWpudkhxbmZPVkdPamhuU0N2ZTducUxmZ1BDNTE2RzMzcTRrbWRGd3ZmYk1SNnB2NktydGFmYUlhc2FDcUR6QldrWmc9LS1ZbFUwMmZOcTdHOTlNbWJlNFNVSlFBPT0%3D--181d012b27ff3b3e0bc88bc425136c0cc853fd25
+cookie: _dd_s=rum=0&expire=1751070230101
+priority: u=1, i
+
+{"operationName":"TeamFeatureQuery","variables":{"handle":"","loadTeam":false,"product_area":"reports","product_feature":"inbox"},"query":"query TeamFeatureQuery($handle: String, $loadTeam: Boolean!) {\n  features {\n    edges {\n      node {\n        id\n        key\n        enabled\n        disabled\n        global\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  teams(where: {handle: {_eq: $handle}}) @include(if: $loadTeam) {\n    nodes {\n      id\n      features {\n        id\n        key\n        enabled\n        disabled\n        global\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}

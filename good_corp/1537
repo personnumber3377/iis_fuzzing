@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 1687
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=fefe31c710b24a8c9bea0c26ac506510
+sentry-trace: fefe31c710b24a8c9bea0c26ac506510-879bc37c11813690
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=3133600&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070233099
+cookie: __Host-session=b29qWkJPaERBOWQ1SHRuV1RCdW8wQi8yK240KzYwTkxsb0RLM2lzMDV2UlFSK2xwUklsRXZWY3czZGFvVjRVQWgxWGZEcTIwNzJ4LzVBYXM0THJJOEkxaEFFOS9kbHNGT0tXblNzazVURGxGcVRBM2FiUlpwQXZLRHl3MmJZejJyTHdwVlNadFA1bnlpcGZobXd0SWhCMzlaMDNFQmtRL2lQRTM0NWhtSXhnRnBYaC83R1IxTXRmbWxtTXBaWG5YVFdRcVZuVXl2eE1NdSszWFVMUTZlREVweHQ2VEIzSUtMYU1kWkhyL29tbzZXUXlkYmlZZEtaaC9XcXZIenArdzA5UTg2ZFhjNG5GRmdJVVBpWUVZY1ZCbEJ6ZFVaUllpTm83STBHZlhJY1pLbGlCMUQ5Wjk2UTVJTmpUSVRvd3dhTnNaTnQyNUl6clVSWHpHb2FmR0VUclZGRDhxSkFHNDM0RXduU1lwalZtNFVFc2FYaUh6RUFUdzRhT2szSWZxeTVobnllSGJDVGk4bXMvdzlRNHQvR3Jrd2RPWjE3NlBNYW0yZm51NlhRTndLMGw1V3JRRXF4SnNIaFZ5Sjlkb1Rrei85QzRjNEJGOWxXREVIZlhBczlyaHFGZUx4UlF0VDV6SHhUOXlBVFhZdTE5WGN1Rjk2Z28rUGFRYmN2b1M4VGRnUG83UDJNbXY3U2pDNFRBVlJaU2x2VkowRUN4dHZqTXFObnc0YTJCNnN6YVVDYWYvRGIzNWhhMmNEN2RxNHg4UHdxNEZxNllZdDZmMkd6dFFEN0t6WDRldUtvSkdZR1pLUStka1AzS09vbmFtL05aRzdockJmUk5HaHZONUxHNGR4YjN1YXpUR1hnSEdINzIybGZMY2p0RmVGNW5zN3pQeG1oU1lEOUE9LS1zWGg2U01mTnQ0S2E4bjZqN1hVTGtRPT0%3D--937a1581c3b595cb0fdab070a9dad3fb6390a3b8
+priority: u=1, i
+
+{"operationName":"ProgramHealthAcknowledgement","variables":{"product_area":"reports","product_feature":"inbox"},"query":"query ProgramHealthAcknowledgement {\n  me {\n    id\n    program_health_acknowledgements(first: 1, throttle_time: 3600) {\n      edges {\n        node {\n          id\n          ...ProgramHealthAcknowledgementModal\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment ProgramHealthAcknowledgementModal on ProgramHealthAcknowledgement {\n  id\n  reason\n  team_member {\n    id\n    team {\n      id\n      organization {\n        id\n        handle\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  ...GracePeriodModal\n  ...InReviewModal\n  ...PausedModal\n  ...OkModal\n  __typename\n}\n\nfragment GracePeriodModal on ProgramHealthAcknowledgement {\n  id\n  team_member {\n    id\n    team {\n      id\n      handle\n      name\n      sla_failed_count\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n\nfragment InReviewModal on ProgramHealthAcknowledgement {\n  id\n  team_member {\n    id\n    team {\n      id\n      handle\n      name\n      sla_failed_count\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n\nfragment PausedModal on ProgramHealthAcknowledgement {\n  id\n  team_member {\n    id\n    team {\n      id\n      handle\n      name\n      sla_failed_count\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n\nfragment OkModal on ProgramHealthAcknowledgement {\n  id\n  team_member {\n    id\n    team {\n      id\n      handle\n      name\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n"}

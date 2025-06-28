@@ -1,0 +1,16 @@
+GET /cdn-cgi/challenge-platform/h/b/pat/9568f5fb093b4c8b/1751069424165/ffa543dde63d1c099e913891dd5a7855209e801262d67db47e023affadbb2fee/Dy9t4G6lxeeJwAE HTTP/2.0
+cache-control: max-age=0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv/hfsyu/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+

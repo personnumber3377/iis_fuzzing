@@ -1,0 +1,27 @@
+POST /v2/consents/geo?locale=en HTTP/2.0
+content-length: 31
+persistent-device-id: 7963e4a3-d7f4-4354-b2cc-04b9dcea5ab2
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+x-supported-image-formats: webp,jpeg
+tinder-version: 6.24.0
+sec-ch-ua-mobile: ?0
+app-session-time-elapsed: 147
+app-version: 1062400
+accept: application/json
+content-type: application/json
+platform: web
+user-session-id: null
+accept-language: en,en-US
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+user-session-time-elapsed: null
+app-session-id: 4e6c08d8-4969-4a40-a422-b1b411f0a721
+origin: https://tinder.com
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://tinder.com/
+accept-encoding: gzip, deflate, br, zstd
+priority: u=1, i
+
+{"categories":[],"consents":[]}

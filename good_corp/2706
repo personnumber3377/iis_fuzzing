@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 408
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=d6bcc167e3e44234b94fb430fb61bf1b
+sentry-trace: d6bcc167e3e44234b94fb430fb61bf1b-85dcb3de1edc6c33
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=2847412&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070257902
+cookie: __Host-session=RVdSMC90RGNDUElUVGdjcDI4eUpLZVRJZkZoSmdPSVBSYW1ZYTBDajVsblZYVGV0TTBIV2lxL0R0c29XV245dnFWSFpESVNHYW9oYlFiRlJmTGRFOXpqMFpucTFhZ3VMSnBPTnlaUzlWTkMvYnBHdWpDNWY2N0Vua2pwOStvU1gxOUVDaXRrcGVEeHpTWi9XNVpQampJRXJPbFloaVlkS0ZZN054TE9JUnE3R3hCQXU4QkdvVGtXZ29RYml0UklaZk51VTZ5Mzl0RW5GTTg5Q2M0MGVnaFRpSS9rRkZ2cHNWKytmL3ZjakM0aTBYclJLWllZc3pZa3RiZmNRWjNaZVRnYW9GdFFjbHlxL09RWVF2NDJZaFl1STQ4M2FDQWQ0Y25ieDRmNElEcG5RaDh4TWdPdUkxdmlyN1hVWXE2NnRHTG1IR1VwdVIxT3NhNzJ4K2VWYjJyejZOSll1bFZaUXlPM3ljQXZKcjVCcVZiREYzYjZlWC81TWxSZ1JOWkFZTlJBczN1QVp5UlNjUEQycG5YcEVDc2t5L3haOHFLRkF6c1pWZFhCVkVxV0tkTnBmalhZVzJZcVpxSVM5NDhEWll5VDJ3Wm56cE93amw5bkZVV2pFeXc1eHp4cWNzQlU2eE94LzNENFNJT2I2cGQzMFBLaW1lZ1NoUGpUN3hGRW1qSDFZUTlyN01VM2Q1aUZqYUN0UzdEUWx1ZktDcnBTUHRYaUwwSkdVMEp0Y2JYbmd5Zm1QcUdZUTZNK1dyNFQ4ZTFQYXV3NGQ0OGVONnRNZVBLWVJFdEZST3lkNElLcVZuM010YXg4Y3R0VVdaMlI0dVpUb1NnRUg3TXVRb3hGLytoNzZ4NmRUbXlnYzBReExVaWNqQWYyNTdRd0daaFdsS0hxRk0rU00zQ0E9LS1FNGdkNVpKZWhPOXIxS2RBeVgzTDlnPT0%3D--8c828dc0250f23de5ced0b3bc0aa8d41a9d011e0
+priority: u=1, i
+
+{"operationName":"FeatureToggles","variables":{"product_area":"reports","product_feature":"inbox"},"query":"query FeatureToggles($handle: String) {\n  organizations(first: 1, where: {handle: {_eq: $handle}}) {\n    nodes {\n      id\n      features {\n        id\n        key\n        enabled\n        disabled\n        global\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}

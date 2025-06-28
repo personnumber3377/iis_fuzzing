@@ -1,0 +1,28 @@
+GET /users/sign_in HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-full-version: "137.0.7151.103"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua-platform-version: "6.6.87"
+sec-ch-ua-model: ""
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: __Host-session=dUlVTXNTaEZoU3JDWFJRU21naDgwb3JTM3lqOGUxUHowMnF3dW43bnBVckFxQk8raFlucmVkSUQ1R3RmT2hVbTlVWXJnSVh2QVk2MDNWRUFnajBobC9aZDd6NFlxa3BvSFJ3aHJlMFpITURISk5WakhWejJkbk15eGx5SmJSWFZZRVFCK0U4QTVHRlJWOFRNWFk2YzRSaHdTTlNxRlJJQ1QySUMvQ3IrbXNJbE1sVUw0Uk0xWUdUMnJHdzZPZnpYcUg4TUZSVkJqQlc1b2oyQkprUmc3RDB4NnpNcVJrQXB2ejd0VEZ1NFViUlFCV0k1S09xUm1PcGFxUW5sbkpzNVJaSDQ2RW1teXBUcjF2bGxsUnNqN1BhUlFZOFNxVHMweWsyaVpQTk4zTW5XWVZ1cm92SG1PWnVOMTlieWhEZCtEUHg0VlJBSkh1eE1pSlk0N2ZWN3hNdjArc2JkcTBlaWhpK0xZYlgvYUFHM1pjNWNSeHN0VFlxUit0YmcyMWszMk5lOFYrZWVFZ00zUDdoNGthYzNKdG5na0pjWENIaVJ3MFhGWXNsRnEyd3N1YTViU3oyUzltZERvK001MmsxTWU3VHo1WkNqdjVwQ1JlaVJQWXZESzF3VVJWVTR3T1pUZmU0YlF0TENNK25sbnY0UXpneVBMaXhmTU1VdDhpczF1dXlWWUQzSjlPMlVabHlOWjVkVzBXN3JRb01UdjRBTUh1aCt0SXBBSGV1R1VSTVZXaXhmY01sa3ltaXNsV1dkTi9sVCtlOGhkalVtM2ZDRHNGb3JBc1p0V2szMEVXSldoeDJFTUJ2TjlTRHRSdXUrYnQyVENnVTlWQVpmUGFaZ3RFS1NycEVsc1YzNE5zOHRMbEl4Z09lR0xualovV01HVXpDMUxscGhESmM9LS04RW1OSC90RlAzVVdsU1hXRG1KT0dRPT0%3D--fe375e2deb7071971ffa2f72355f846a11ec836a
+cookie: _dd_s=rum=0&expire=1751070274034
+priority: u=0, i
+

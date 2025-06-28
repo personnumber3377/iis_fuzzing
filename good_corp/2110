@@ -1,0 +1,23 @@
+POST /github/collect HTTP/2.0
+content-length: 3941
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://github.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://github.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: _octo=GH1.1.1861881513.1751070612
+cookie: logged_in=no
+cookie: cpu_bucket=md
+cookie: preferred_color_mode=light
+cookie: tz=Europe%2FHelsinki
+priority: u=4, i
+
+{"client_id":"1861881513.1751070612","events":[{"page":"https://github.com/personnumber3377/","title":"personnumber3377 · GitHub","context":{"user_id":"63960351","user_login":"personnumber3377","referrer":"","request_id":"D760:34E176:227A66:23E861:685F3794","visitor_id":"7996720209113069460","region_edge":"fra","region_render":"fra","staff":"false","react":"false","reactPartials":"[\"keyboard-shortcuts-dialog\",\"appearance-settings\"]","featureFlags":"[\"alternate_user_config_repo\",\"api_insights_show_missing_data_banner\",\"appearance_settings\",\"codespaces_prebuild_region_target_update\",\"contact_requests_implicit_opt_in\",\"contentful_lp_copilot_extensions\",\"contentful_lp_flex_features\",\"contentful_lp_footnotes\",\"copilot_chat_attach_multiple_images\",\"copilot_chat_custom_instructions\",\"copilot_chat_repo_custom_instructions_preview\",\"copilot_chat_vision_in_claude\",\"copilot_chat_vision_skip_thread_create\",\"copilot_chat_wholearea_dd\",\"copilot_custom_copilots_feature_preview\",\"copilot_duplicate_thread\",\"copilot_free_to_paid_telem\",\"copilot_ftp_settings_upgrade\",\"copilot_ftp_upgrade_to_pro_from_models\",\"copilot_ftp_your_copilot_settings\",\"copilot_immersive_structured_model_picker\",\"copilot_new_conversation_starters\",\"copilot_new_immersive_references_ui\",\"copilot_no_floating_button\",\"copilot_paste_text_files\",\"copilot_read_shared_conversation\",\"copilot_showcase_icebreakers\",\"copilot_spaces_support_forks\",\"copilot_task_oriented_assistive_prompts\",\"copilot_topics_as_references\",\"copilot_workbench_iterate_panel\",\"copilot_workbench_preview_analytics\",\"copilot_workbench_refresh_on_wsod\",\"copilot_workbench_user_limits\",\"custom_copilots_128k_window\",\"custom_copilots_capi_mode\",\"custom_copilots_issues_prs\",\"direct_to_salesforce\",\"dotcom_chat_client_side_skills\",\"failbot_report_error_react_apps_on_page\",\"ghost_pilot_confidence_truncation_25\",\"ghost_pilot_confidence_truncation_40\",\"insert_before_patch\",\"issues_catch_non_json_graphql_response\",\"issues_preserve_tokens_in_urls\",\"issues_react_blur_item_picker_on_close\",\"issues_react_bots_timeline_pagination\",\"issues_react_create_milestone\",\"issues_react_prohibit_title_fallback\",\"issues_react_remove_placeholders\",\"issues_tab_counter_updates\",\"lifecycle_label_name_updates\",\"link_contact_sales_swp_marketo\",\"marketing_pages_search_explore_provider\",\"memex_mwl_filter_field_delimiter\",\"nonreporting_relay_graphql_status_codes\",\"primer_primitives_experimental\",\"primer_react_css_modules_ga\",\"primer_react_select_panel_with_modern_action_list\",\"remove_child_patch\",\"sample_network_conn_type\",\"sanitize_nested_mathjax_macros\",\"scheduled_reminders_updated_limits\",\"site_homepage_contentful\",\"site_msbuild_hide_integrations\",\"site_msbuild_launch\",\"site_msbuild_webgl_hero\",\"spark_commit_on_default_branch\",\"swp_enterprise_contact_form\",\"use_copilot_avatar\",\"use_paginated_repo_picker_cost_center_form\",\"viewscreen_sandbox\"]","ssr":"false","controller":"\"profiles\"","action":"\"show\"","routePattern":"\"/:user_id(.:format)\"","cpu":"\"md\"","lcp":"{\"name\":\"LCP\",\"value\":1180,\"element\":\"a.d-block>img.avatar.avatar-user.width-full.border.color-bg-default\"}","hpc":"{\"name\":\"HPC\",\"value\":1180,\"element\":\"a.d-block>img.avatar.avatar-user.width-full.border.color-bg-default\",\"soft\":false,\"mechanism\":\"hard\"}","fid":"{\"name\":\"FID\",\"value\":1.599999999976717,\"element\":\"a.UnderlineNav-item.js-responsive-underlinenav-item.js-selected-navigation-item\",\"events\":\"pointerdown\"}"},"type":"web-vital"}],"request_context":{"referrer":"","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36","screen_resolution":"1920x1200","browser_resolution":"1908x956","browser_languages":"en-US,en","pixel_ratio":1,"timestamp":1751070619815,"tz_seconds":10800}}

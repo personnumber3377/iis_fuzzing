@@ -1,0 +1,19 @@
+POST /unstable/produce_batch HTTP/2.0
+content-length: 318
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://bebek.fi
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://bebek.fi/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+
+{"metadata":{"event_sent_at_ms":1751069321574},"events":[{"schema_id":"web_pixels_manager_load/3.1","payload":{"version":"6f677fd0w3c093ab1p02f691e5m32dd6af7","bundle_target":"modern","page_url":"https://bebek.fi/","status":"loading","surface":"storefront-renderer"},"metadata":{"event_created_at_ms":1751069321574}}]}

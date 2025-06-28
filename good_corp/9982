@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 1919
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=d6bcc167e3e44234b94fb430fb61bf1b
+sentry-trace: d6bcc167e3e44234b94fb430fb61bf1b-85dcb3de1edc6c33
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=2847412&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070257902
+cookie: __Host-session=eG5QcUJQYitQVVhLT0h3ZFRrNnplaFNWMGpzdmRUekFDYTZCV3NQTlJ6Um0rRTdxVmpwTGU4WXh4YldsN1FJMnFKQlREZGxUc3ZmR1k5cjdtUzcwd2svSUV5OUp3dXY4dGl6azVqaDgrdC9YVmNUVnpkeU96L00vNVd0NTlWS2pYcDVZeXhTRXRLZ3loMkp6Q21QMWlFOWRJL2FxN2NydFpVNExvZ2ZRdFE0K3ZhTlgzWkVuL0c4dHdlS3h2c2tUQ3Z6SDY3ek1GUXVDYi85S0ZzQ05WMEE4c2pLeEZObEx6ZUhXYnZKUVVRdkpiQTRGQmttNW1jdnJJbEt2b21SMHp1WlM4Ykc0c1hqclhHZ2VQOW5kbnlPeGtFS2dNZFB1T2Y0c2swVGJzYy9EWHZacnB0Ymh4T2FuWnh3MkhuVFZuTStLMGE5RzErSEt6Z2UwbVdKYkFhMjlIUFBDNHRGVlVjYWxWQXh2MGhLZFRlbS80TGg5emNmZFNHNmtvaE9JRVd5Q1diMWplelRRSnJlRkdVVHZaSXRsQzlUSGlCNFFqcit4ZXZseWNzdCtDeXpDVGVOTzc5V2t3bXVHU2U4SHlDOHMwMFZ6b1M2RWhzTXhDVFdKcVI2UCsvbU5xR2pPZWJZamlUbWtoVXEwbVJlYWFmY3kwR095UFpjdmFHRUQ1OStyVlFZcVhJV09Lcmc4YWlwNlJNT3N6TENWRTJ6QkJJUmtKL1hLN1JzQ082ckswWU5YRktEWER5S041VjY3ai9YTDY5QjhxeENpeFRjYmZuZWxzZE9hRUd2SCtYL2dMREVJVjRNZXRHbFlmTkFaUGxKNjlFcDJKWmVVdmxyVmM0VkxGbDcyNWxlT0VzcDhxUC90d3BPNzhhVERkSHVDdTFQckZoOU1SOWM9LS1tSlJiRjVYMUxiRW1aRDhKVlkxUXl3PT0%3D--41f124b7e74b930f1e17659021a2d00a1bb36bca
+priority: u=1, i
+
+{"operationName":"GetInsightAgentConversation","variables":{"id":2847412,"product_area":"reports","product_feature":"inbox"},"query":"query GetInsightAgentConversation($id: Int!) {\n  report(id: $id) {\n    i_can_generate_insight_agent\n    hai_report_data {\n      llm_conversation {\n        id\n        _id\n        is_generating\n        llm_conversation_messages(\n          order_by: {created_at: {_direction: ASC}}\n          first: 1\n          where: {author: {_eq: \"ASSISTANT\"}}\n        ) {\n          nodes {\n            id\n            state\n            messages\n            messageIndex: message_index\n            thinking {\n              id\n              __typename\n              thinking\n              thinking_signature\n              duration\n            }\n            insight_agent_artifacts: artifacts(\n              where: {_or: [{type: {_eq: report_assessment}}, {type: {_eq: report_comparison_table}}, {type: {_eq: mermaid}}, {type: {_eq: severity_suggestion}}, {type: {_eq: report_summary}}, {type: {_eq: bounty_amount_suggestion}}]}\n            ) {\n              nodes {\n                ...ArtifactRendererFragment\n                __typename\n              }\n              __typename\n            }\n            task_progress_artifacts: artifacts(\n              order_by: {created_at: {_direction: ASC}}\n              where: {type: {_eq: task_progress}}\n              only_current_message_index: true\n            ) {\n              nodes {\n                ...ArtifactRendererFragment\n                __typename\n              }\n              __typename\n            }\n            __typename\n          }\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment ArtifactRendererFragment on LlmConversationMessageArtifact {\n  id\n  type\n  message_index\n  payload\n  debug\n  acted\n  __typename\n}\n"}

@@ -1,0 +1,33 @@
+GET /pagead/1p-conversion/16521530460/?gad_source=1&adview_type=4&adview_pf=1&adview_query_id=CIbSraHsko4DFRkWogMdmPcU3A HTTP/2.0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-purpose: prefetch;prerender
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-form-factors: "Desktop"
+sec-ch-ua-wow64: ?0
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+downlink: 1.55
+sec-ch-prefers-color-scheme: light
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+rtt: 100
+sec-ch-ua-platform-version: "6.6.87"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+attribution-reporting-eligible: trigger, event-source
+attribution-reporting-support: web;os
+purpose: prefetch
+x-client-data: CLWKywE=
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://www.google.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: AEC=AVh_V2izLWHMF02RtzSw5K-3DSR2y4WWLGbIF2w1vVmn6lzGYBx9FUgHlg
+cookie: SOCS=CAISHAgCEhJnd3NfMjAyNTA2MjQtMF9SQzEaAmZpIAEaBgiAvvfCBg
+cookie: NID=525=cnZ4zVrrCaZ7A6WmnNiK_Amrt49QDnihef27Vc9GM2Bs4t8CXKdNVKs6c8MSrtDNIJZESu54K8HjT2uvYx0LmNu-QQeLZOuI9udnfs54bVM5nMFCy2IlM7Iy5TixRE7ECRRFeSPXVEuMewRzs-KWo1iQ4Wtoz4hu3N37gW0KjyeCLGvUWU_0GFh4iJgxSMLKC-2dFHMvj7MLrNEpksJeif0P85wlxXQTqm3qUTcdFK4JvF83NIbi8sC58PWZ39bGpIfNxURZx9LouIpWxP7tp497fStwG9RhrZevhvJ6JgIHGKeFLR1njxYEgDxhVCk3Hws-
+priority: i
+

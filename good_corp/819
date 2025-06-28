@@ -1,0 +1,18 @@
+POST /track HTTP/2.0
+content-length: 1143
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.reddit.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://www.reddit.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+
+{"encryptedTrackingId":"ed7i_zRruiryMp1llvMekHjwrvzd2_d7hwJ1_UeuxFZVFWapGXPsVABm7P1xd0puww7RD6JkGpwGGyvKwlViAyvNK-h-j2dcI7aHrPQF1Rw2V4pzPNTG1FJgGry6-5576D-TdSLTT556Z0ChhZR7ZpUnwCzWuHdO_CyUOHXSD4W91ByXkVUbuibWIw1w0Zs","encryptedTrackingPayload":"bQ1k2FqLm6dw9urrmrpsaW2MzFiZf4fSOxVTUVbZ4uwlPgJk1cyadLWEQz_aguPn5Ll5uI7AJcQiDSbjyxRUdNPqjsIp-8bSf8-l08ZMR-FvUavJSFmg3ntiXZ0oh8LG-2X1iThXRiZNqNzdpKCsLNBINOMBRpIwuuye9iTpQyDVIwKz_XyL9AB8_gLdYJTFZjUzF4kRefIaUUWbtAw-FdqZ4Gdv9oqeAKuGZx175svIdiVE7b1zvwdaOtlTgetSvqxlHyDczTl5UHuTMzez5FhY8wRbDDN_dsWhzXN-cpNMIuKkXy6UJOLssPFEQGAtbDgR47gt5lLsKTo2subg5eIfXLB61Vx5RmNuo8lnvqWz4v-tO06sWDTLHBmtveLVFn1Eu60YC-4-BpZZTofWx0x-uSYLZsmD5QDz8tTDJHsjn-OCUSUK93F3nROhgaxWhx7zYEnQLO1ShkVSCK6BYlGVYMLVlanOwwRjI3hEEmXUDArvpHq1KK3qdDOH-lwMgDL1w_3jsYsMZMdYbIL3iJ_Und-cc56vA1mxToXm861e-K5aQGmvWON_fB750tZxVqa7n7m5ijoF_1JLuJ8YYZIOC65W5g","additionalEventMetadata":"","clientImpressionID":"5270891180542970513","a":"1009","b":"1004","be":"1004","c":"1004","d":"1009","e":"1004","ea":"1004","eb":"1004","f":"1004","r":"3","g":"1","i":"1751070403247","t":"1751070404256","o":"1","q":"1","h":"188","w":"732","sh":"1200","sw":"1920"}

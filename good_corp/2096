@@ -1,0 +1,15 @@
+GET /zcga54AJ23-iu0ldfMIxdegCuMcJcsxMUZ7bXFMiXOE.png?width=140&height=123&crop=140:123,smart&auto=webp&s=dadfe3a59957f00f06553605925ee056c985d975 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+sec-fetch-storage-access: active
+referer: https://www.reddit.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: i
+

@@ -1,0 +1,23 @@
+POST /_private/browser/stats HTTP/2.0
+content-length: 3706
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://github.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://github.com/personnumber3377/school_stuff
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: _octo=GH1.1.1861881513.1751070612
+cookie: logged_in=no
+cookie: cpu_bucket=md
+cookie: preferred_color_mode=light
+cookie: tz=Europe%2FHelsinki
+priority: u=4, i
+
+{"stats": [{"incrementKey":"REACT_RENDER","incrementTags":{"appName":"keyboard-shortcuts-dialog","csr":true,"error":false,"ssr":false,"ssrError":false},"timestamp":1751070623892,"loggedIn":false,"staff":false,"bundler":"webpack"},{"reactHydrationTimings":{"duration":89.90000000002328,"appName":"repos-overview","reactVersion":"18.3.1","renderType":"hydrateRoot"},"requestUrl":"https://github.com/personnumber3377/school_stuff","timestamp":1751070623956,"loggedIn":false,"staff":false,"bundler":"webpack"},{"longTasks":[{"name":"self","duration":286,"url":"https://github.com/personnumber3377/school_stuff"},{"name":"self","duration":103,"url":"https://github.com/personnumber3377/school_stuff"}],"timestamp":1751070623981,"loggedIn":false,"staff":false,"bundler":"webpack"},{"incrementKey":"REACT_RENDER","incrementTags":{"appName":"appearance-settings","csr":true,"error":false,"ssr":false,"ssrError":false},"timestamp":1751070624147,"loggedIn":false,"staff":false,"bundler":"webpack"},{"reactHydrationTimings":{"duration":110.39999999990687,"appName":"appearance-settings","reactVersion":"18.3.1","renderType":"createRoot"},"requestUrl":"https://github.com/personnumber3377/school_stuff","timestamp":1751070624149,"loggedIn":false,"staff":false,"bundler":"webpack"},{"webVitalTimings":[{"name":"https://github.com/personnumber3377/school_stuff","cpu":"md","fcp":1220,"networkConnType":"4g","ssr":true,"lazy":false,"alternate":false,"app":"repos-overview"}],"timestamp":1751070624150,"loggedIn":false,"staff":false,"bundler":"webpack"},{"longAnimationFrames":[{"name":"long-animation-frame","duration":343.9000000000233,"blockingDuration":254.608,"url":"https://github.com/personnumber3377/school_stuff"},{"name":"long-animation-frame","duration":170.70000000006985,"blockingDuration":60.976,"url":"https://github.com/personnumber3377/school_stuff"}],"timestamp":1751070624151,"loggedIn":false,"staff":false,"bundler":"webpack"},{"downloadedBundles":["vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_virtualized-list_es_inde-5cfb7e.js","vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-70450e.js","app_assets_modules_github_ref-selector_ts.js","codespaces.js","vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-3eebbd.js","vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_delegated-events_di-e161aa.js","vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_remote--3c9c82.js","repositories.js","vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9.js","code-menu.js","vendors-node_modules_tanstack_query-core_build_modern_queryObserver_js-node_modules_tanstack_-defd52.js","ui_packages_agent-sessions_utils_elapsed-time-util_ts-ui_packages_agent-sessions_hooks_useSes-bd1a31.js","copilot-coding-agent-status.js","notifications-subscriptions-menu.js","vendors-node_modules_dompurify_dist_purify_es_mjs.js","vendors-node_modules_tanstack_react-virtual_dist_esm_index_js.js","vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-189aa3.js","ui_packages_document-metadata_document-metadata_ts-ui_packages_history_history_ts-ui_packages-417c81.js","ui_packages_ref-selector_RefSelector_tsx.js","ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-762eaa.js","ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-6097ef.js","repos-overview.js","repository.css","code.css"],"timestamp":1751070624629,"loggedIn":false,"staff":false,"bundler":"webpack"}], "target": "full"}

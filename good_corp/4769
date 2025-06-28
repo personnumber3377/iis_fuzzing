@@ -1,0 +1,23 @@
+POST /.well-known/shopify/monorail/unstable/produce_batch HTTP/2.0
+content-length: 378
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://bebek.fi
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://bebek.fi/collections/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: keep_alive=eyJ2IjoyLCJ0cyI6MTc1MTA2OTM3OTE1OSwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjoxNCwiY2EiOjAsImthIjowLCJzYSI6MCwidGEiOjAsImtiYSI6MCwidCI6NTcsIm5tIjoxLCJtcyI6MC4zOCwibWoiOjAuOTQsIm1zcCI6MC43OCwidmMiOjAsImNwIjowLCJyYyI6MCwia2oiOjAsImtpIjowLCJzcyI6MCwic2oiOjAsInNzbSI6MCwic3AiOjAsInRzIjowLCJ0aiI6MCwidHAiOjAsInRzbSI6MH0sInNlcyI6eyJwIjoxLCJzIjoxNzUxMDY5MzIxOTk3LCJkIjo1M319
+cookie: _ga_XS4TT1TX37=GS2.1.s1751069322$o2$g1$t1751069381$j1$l0$h0
+priority: u=4, i
+
+{"events":[{"schema_id":"trekkie_asset_context/1.1","payload":{"build_id":"7f48c99429cb25be36839f7a7bcca2ac8a69827d","page_url":"https://bebek.fi/collections/all","app_name":"storefront","shop_id":78417985803,"monorail_region":"shop_domain","source":"trekkie-storefront-renderer"},"metadata":{"event_created_at_ms":1751069381081}}],"metadata":{"event_sent_at_ms":1751069381197}}

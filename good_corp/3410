@@ -1,0 +1,15 @@
+GET /cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9568f5fb093b4c8b&lang=auto HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: script
+sec-fetch-storage-access: active
+referer: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/if/ov2/av0/rcv/hfsyu/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1
+

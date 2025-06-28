@@ -1,0 +1,23 @@
+GET /wiki/United_States_Congress HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://en.wikipedia.org/wiki/Suitcase_nuclear_device
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: WMF-Uniq=BFKd0K1oYOQKTwFz7PVllAIdAAEBAFvdt2i-o2R4o5Hv3d7W97a6WeruNHymeTXL
+cookie: WMF-Last-Access-Global=28-Jun-2025
+cookie: GeoIP=FI:18:Espoo:60.18:24.84:v4
+cookie: WMF-Last-Access=28-Jun-2025
+cookie: NetworkProbeLimit=0.001
+cookie: enwikimwuser-sessionId=6e9a3502fa53580e40b8
+cookie: WMF-DP=3be,151
+priority: u=0, i
+

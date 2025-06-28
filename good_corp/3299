@@ -1,0 +1,20 @@
+GET /gampad/ads?pvsid=596574282258613&correlator=2797877546790642&eid=31093201%2C95353384%2C31093160%2C31088081%2C83321072&output=ldjh&gdfp_req=1&vrg=202506250101&ptt=17&impl=fif&gdpr_consent=CQTtj8gQTtj8gAcABBENBxF4AP_AAEPAACiQF5wBQAGAAgAHQAaABeYF5wAwAQADoAXmAAAA.f_gACHgAAAAA&gdpr=1&npa=1&iu_parts=248424177%2Cstackoverflow.com%2Csb%2Cquestion-pages&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=300x250%7C300x600&ifi=2&dids=dfp-tsb&adfs=3131613652&sfv=1-0-45&fsfs=1&fsbs=1&sc=1&cookie_enabled=1&abxe=1&dt=1751069432488&lmt=1751069432&adxs=1255&adys=570&biw=1893&bih=956&scr_x=0&scr_y=0&btvi=0&ucis=2&oid=2&u_his=4&u_h=1200&u_w=1920&u_ah=1200&u_aw=1920&u_cd=24&u_sd=1&u_tz=180&dmc=8&bc=31&nvt=1&uach=WyJMaW51eCIsIjYuNi44NyIsIng4NiIsIiIsIjEzNy4wLjcxNTEuMTAzIixudWxsLDAsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTM3LjAuNzE1MS4xMDMiXSxbIk5vdC9BKUJyYW5kIiwiMjQuMC4wLjAiXV0sMF0.&uas=3&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F4238809%2Fexample-of-multipart-form-data&ref=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F4238809%2Fexample-of-multipart-form-data%3F__cf_chl_tk%3Dslm7tBnKTjHNHFO1Wcas6Ktp.QlEzsXdRyoaMUk_lI8-1751069423-1.0.1.1-Oi7EX2XCQXfbdp37lCSuP6bqL2t.NPRIig8lJ5m2ChM&vis=1&psz=300x0&msz=300x0&fws=128&ohw=0&topics=5&tps=5&htps=5&a3p=EhsKDDMzYWNyb3NzLmNvbRjdtPye-zJIAFICCGQSHQoOZXNwLmNyaXRlby5jb20Y3bT8nvsySABSAghk&nt=1&psd=WzMxLFtdLG51bGwsM10.&dlt=1751069430858&idt=1418&cust_params=Registered%3Dfalse%26Reputation%3Dnew%26so-tag%3Dhtml%252Chttp%252Cmultipart%252Cmultipartform-data%26tag-reportable%3Dhtml%252Chttp%252Cmultipart%252Cmultipartform-data%26NumberOfAnswers%3D3%26cf_bot_score%3D61%2520-%252080%26TargetingConsent%3DFalse_Passive%26Sidebar%3DRight&adks=734352169&frm=20&eoidce=1&td=1&egid=9790&tan=e9760f2f-1fc5-4f91-9f4c-d93e7b5b8a88&tdf=2 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://stackoverflow.com
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://stackoverflow.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: IDE=AHWqTUmuGHLAnTfsbyyZWo1NUoFooPEj-RlTXlfidXxI3SgUzo_IqlP_UDnd_ZxHsaM
+cookie: ar_debug=1
+cookie: DSID=NO_DATA
+priority: u=1, i
+

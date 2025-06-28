@@ -1,0 +1,23 @@
+POST /log?client_version=6.20250627.233727.52882-f43d60452b HTTP/2.0
+content-length: 729
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://st8.evo-games.com
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://st8.evo-games.com/frontend/evo/r2/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: EVOSESSIONID=seb277x3vfbr53b5s6z65gtcwxkenahe010f8f5a38d68f472ccfe2824a75114578e31a51c4a4ad87
+cookie: cdn=https://static.egcdn.com
+cookie: lang=fi
+cookie: locale=fi
+priority: u=4, i
+
+{"log":{"type":"CLIENT_GAME_RELOAD","value":{"attributionId":"DwFSHorIL1ozHvc0FyzVGf5kOi6a/KCtVkJg0SOirnY=","ua_launch_id":"184d0d4b8502b4d52fee17f0","lobby_launch_id":null,"connectionType":"4g","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36","buildId":"6.20250627.233727.52882-f43d60452b","url":"https://st8.evo-games.com/frontend/evo/r2/#provider=netent&balance_id=demo-st80000000000001-cGxheWluZ2d1ZXN0MDAzNw%3D%3D-67ebafaf-9b06-4443-a9e0-d6e294e4d7d5&ua_launch_id=184d0d4b8502b4d52fee17f0&game=starburstgalaxy&table_id=starburstgar96f0","provider":"netent","tableId":"starburstgar96f0","virtualTableId":null,"reason":"Game loaded, switching to demo game"}}}

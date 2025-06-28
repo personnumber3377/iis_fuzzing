@@ -1,0 +1,34 @@
+POST /v1:GetModels?key=AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o HTTP/2.0
+content-length: 886
+content-type: application/x-protobuf
+x-client-data: CLWKywE=
+sec-fetch-site: none
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+
+
+	 
+ 
+e 2_
+Wtype.googleapis.com/google.internal.chrome.optimizationguide.v1.PageTopicsModelMetadata0
+g 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ
+ 
+g 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ
+g 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ
+ 
+ 
+l 2f
+`type.googleapis.com/google.internal.chrome.optimizationguide.v1.AutocompleteScoringModelMetadata
+g 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ
+g- 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ
+g. 2a
+Ytype.googleapis.com/google.internal.chrome.optimizationguide.v1.SegmentationModelMetadataJ*en-US2

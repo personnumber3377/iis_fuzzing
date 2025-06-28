@@ -1,0 +1,24 @@
+POST /api/unstable/graphql.json HTTP/2.0
+content-length: 1479
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: application/json
+x-shopify-storefront-access-token: 142c57817585f108ea19306d25b82657
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://bebek.fi
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://bebek.fi/collections/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: keep_alive=eyJ2IjoyLCJ0cyI6MTc1MTA2OTM3OTE1OSwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjoxNCwiY2EiOjAsImthIjowLCJzYSI6MCwidGEiOjAsImtiYSI6MCwidCI6NTcsIm5tIjoxLCJtcyI6MC4zOCwibWoiOjAuOTQsIm1zcCI6MC43OCwidmMiOjAsImNwIjowLCJyYyI6MCwia2oiOjAsImtpIjowLCJzcyI6MCwic2oiOjAsInNzbSI6MCwic3AiOjAsInRzIjowLCJ0aiI6MCwidHAiOjAsInRzbSI6MH0sInNlcyI6eyJwIjoxLCJzIjoxNzUxMDY5MzIxOTk3LCJkIjo1M319
+cookie: _ga_XS4TT1TX37=GS2.1.s1751069322$o2$g1$t1751069381$j1$l0$h0
+priority: u=1, i
+
+{"query":"\n        query bannerQuery ($isPreviewMode: Boolean = false) @inContext(language: FI, country: FI) {\n          consentManagement {\n            banner {\n              enabled\n              position\n              policyLinkText\n              policyLinkUrl\n              title\n              text\n              buttonPrefsOpenText\n              buttonAcceptText\n              buttonDeclineText\n              regionVisibility @include(if: $isPreviewMode)\n              theme {\n                theme\n                fontColor\n                backgroundColor\n                buttonFontColor\n                buttonBackgroundColor\n              }\n              preferences {\n                title\n                introTitle\n                introText\n                buttonAcceptText\n                buttonDeclineText\n                buttonSaveText\n                bulletPoints {\n                  enabled\n                  title\n                  firstText\n                  secondText\n                  thirdText\n                }\n                purposes {\n                  essentialName\n                  essentialDesc\n                  performanceName\n                  performanceDesc\n                  preferencesName\n                  preferencesDesc\n                  marketingName\n                  marketingDesc\n                }\n              }\n            }\n          }\n        }","variables":{"isPreviewMode":false}}

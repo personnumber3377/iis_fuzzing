@@ -1,0 +1,31 @@
+POST /_i?type=event&event=accept-all&origin=homepage&origin_url=%2F HTTP/2.0
+content-length: 0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-arch: "x86"
+x-requested-with: XMLHttpRequest
+sec-ch-ua-full-version: "137.0.7151.103"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+accept: */*
+origin: https://www.pornhub.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.pornhub.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: platform=pc
+cookie: ss=225883773060362360
+cookie: comp_detect-cookies=23063.100000
+cookie: __s=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: __l=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: accessAgeDisclaimerPH=1
+cookie: cookieConsent=3
+cookie: _ga=GA1.1.733081382.1751070153
+cookie: _ga_B39RFFWGYY=GS2.1.s1751070152$o1$g0$t1751070159$j60$l0$h0
+priority: u=1, i
+

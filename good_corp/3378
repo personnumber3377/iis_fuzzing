@@ -1,0 +1,21 @@
+POST /monitoring?o=4508166415056896&p=4508176786784336&r=de HTTP/2.0
+content-length: 585
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://www.tuohi.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.tuohi.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: __cflb=02DiuH2AZQgXxB8TGtLWYmvyM32QcSuh2Nbz79AHQBYVJ
+priority: u=1, i
+
+{"sent_at":"2025-06-28T00:27:19.676Z","sdk":{"name":"sentry.javascript.nextjs","version":"8.35.0"},"dsn":"https://f6c0352c5bce4e91d07b61e6d2cc9933@o4508166415056896.ingest.de.sentry.io/4508176786784336"}
+{"type":"session"}
+{"sid":"0d19d5bc97d24eb7a777a1a7ecd9e447","init":true,"started":"2025-06-28T00:27:19.675Z","timestamp":"2025-06-28T00:27:19.675Z","status":"ok","errors":0,"attrs":{"release":"1a79500099368dbc50d44c3e35ece33baa0ca281","environment":"production","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}}

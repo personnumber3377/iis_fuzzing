@@ -1,0 +1,16 @@
+GET /Js/questions/show.en.js?v=b87ba8889839 HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: script
+sec-fetch-storage-access: active
+referer: https://stackoverflow.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: __cf_bm=h3eBFKw7Nbuj3TF6sIxn7mnSDM4AFRfBizVAsyX5LJc-1751069423-1.0.1.1-.025UrJe8BRqf7vf9rqSksrBozSTYB7G.NE5Ku_9.2mIzXuKiT0shTZ2cGPlRURgTyCtvxb8AckgLQAoaL5WamLqIjabJp78zWGrBvRtWeI
+cookie: _cfuvid=70zS0YwGDjqpkYqAusbGtcYjk0QJdqQl4Vs0_QV1hyY-1751069423870-0.0.1.1-604800000
+

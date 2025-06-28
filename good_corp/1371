@@ -1,0 +1,17 @@
+GET /dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESELA8tPjwX7ihEhS1C2LpF8w&google_cver=1&google_push=AXcoOmQwwRk_1cK-hrUwyN33c7qCEnxS3rnDp-taXLYqe1nEI9a_SrJeAF6Vdt7pN25xNp3VLVtOx_rc3thWHUy2VDFH3ijkZZwY9jw&gdpr=1&gdpr_consent=CQTqrYAQTqrYAEsACBENBxFoAP_gAEPgABaoK1ID_C7EbCFCiLp3IKMEMAhHQBBAYsQwAAaBAwAADBIQIAQCgkEYBASAFCACCAAAKCSBAAAgCAAAAUAAYAAVAABEAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEEEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEXCuQUYIYBCugCAAxYhgAA0CBgAAGCQgQAgFJIIkCAEAIEAAEAAAQEgCAABQABAAAIAAgAAqAACIABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIIIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+sec-fetch-storage-access: active
+referer: https://pagead2.googlesyndication.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: mc=685f2fae-4f38d-2b5a9-1864b
+cookie: sp=CgkIhf8CEgMQ1A8KCQiCrQMSAxDUDwoICIkNEgMQ1A8=
+priority: i
+

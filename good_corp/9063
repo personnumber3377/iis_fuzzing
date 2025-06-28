@@ -1,0 +1,45 @@
+GET /_xa/ads_batch?ads=true&clientType=mobile&channel[context_page_type]=home&channel[info]=%7B%22actor_id%22%3Anull%2C%22content_type%22%3Anull%2C%22video_id%22%3Anull%2C%22timestamp%22%3A1751070432%2C%22hash%22%3A%227e1a5c767e8699e2499830b1716a8bf8%22%2C%22session_id%22%3A%22897906642355316320%22%7D&channel[site]=pornhub&site_id=2&device_type=tablet&hc=72086E84-2120-4CA7-9A52-C0ABD8B85598&data=%5B%7B%22spots%22%3A%5B%7B%22zone%22%3A5%7D%5D%7D%5D&noc=0&dm=www.pornhub.com/_xa&width1920&height1200&width=1920&height=1200 HTTP/2.0
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.pornhub.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: platform=pc
+cookie: ss=225883773060362360
+cookie: comp_detect-cookies=23063.100000
+cookie: __s=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: __l=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: accessAgeDisclaimerPH=1
+cookie: cookieConsent=3
+cookie: _ga=GA1.1.733081382.1751070153
+cookie: ua=cd5d5f3ff8f374827248e13d2f7d64ca
+cookie: bs=00000000000000009e1731a7f4f087f8
+cookie: bsdd=00000000000000009e1731a7f4f087f8
+cookie: sessid=897906642355316320
+cookie: fg_afaf12e314c5419a855ddc0bf120670f=1441.100000
+cookie: tj_UUID=ChD0K4-4_n1F_L8_I8dAn3h7EgwI5Ov8wgYQiP3jvQIYAQ==
+cookie: tj_UUID_v2=ChD0K4-4_n1F_L8_I8dAn3h7EgwI5Ov8wgYQiP3jvQIYAQ==
+cookie: _hjSession_1180136=eyJpZCI6ImJkMDA3MjY3LTZjOGEtNDI2OC1iODUwLTJkNjc5MDc2ZWNjMyIsImMiOjE3NTEwNzAxODMzMjcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=
+cookie: d_fs=1
+cookie: d_uidb=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: d_uid=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: d_uidb=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: lvv=104077161266844246
+cookie: vlc=954304528203227169
+cookie: _hjSessionUser_1180136=eyJpZCI6IjhjNzBiY2IzLTQzNGItNTdiMi1iOTE2LWZiNzVmMDNiNjBhMSIsImNyZWF0ZWQiOjE3NTEwNzAxODMzMjUsImV4aXN0aW5nIjp0cnVlfQ==
+cookie: etavt=%7B%226811b656b8340%22%3A%229_8_NA_NA%7C1%22%2C%22644f6dd71efd8%22%3A%225_2_2_pornhub.related_video.96%7C0%22%7D
+cookie: _ga_B39RFFWGYY=GS2.1.s1751070152$o1$g1$t1751070370$j49$l0$h0
+cookie: fg_7d31324eedb583147b6dcbea0051c868=38792.100000
+priority: u=1, i
+

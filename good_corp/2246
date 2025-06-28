@@ -1,0 +1,16 @@
+GET /_next/static/chunks/pages/pelivalmistajat/%5Bsupplier%5D-bdb791a13cb4cb94.js HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+purpose: prefetch
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://www.tuohi.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: __cflb=0N1X7dRyiNsdKoLDQko4eDoE3YBnrnegeexH9C93E5964D1rmbYvdCkwdAiuvK5fhiHMARUDfK8qiUM3Z2RLetxk
+priority: u=4, i
+

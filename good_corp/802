@@ -1,0 +1,45 @@
+GET /_xa/fla/log?action=ad_view&ad_id=1089255712&campaign_id=1011809702&initial_zone_id=2190771&member_id=1006970732&zone_id=2190771 HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-full-version: "137.0.7151.103"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua-platform-version: "6.6.87"
+sec-ch-ua-model: ""
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-dest: iframe
+referer: https://www.pornhub.com/view_video.php?viewkey=6811b656b8340
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: platform=pc
+cookie: ss=225883773060362360
+cookie: comp_detect-cookies=23063.100000
+cookie: __s=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: __l=685F35C5-42FE722901BB1CDB2-68877BC
+cookie: accessAgeDisclaimerPH=1
+cookie: cookieConsent=3
+cookie: _ga=GA1.1.733081382.1751070153
+cookie: ua=cd5d5f3ff8f374827248e13d2f7d64ca
+cookie: bs=00000000000000009e1731a7f4f087f8
+cookie: bsdd=00000000000000009e1731a7f4f087f8
+cookie: sessid=897906642355316320
+cookie: fg_afaf12e314c5419a855ddc0bf120670f=1441.100000
+cookie: tj_UUID=ChD0K4-4_n1F_L8_I8dAn3h7EgwI5Ov8wgYQiP3jvQIYAQ==
+cookie: tj_UUID_v2=ChD0K4-4_n1F_L8_I8dAn3h7EgwI5Ov8wgYQiP3jvQIYAQ==
+cookie: _hjSession_1180136=eyJpZCI6ImJkMDA3MjY3LTZjOGEtNDI2OC1iODUwLTJkNjc5MDc2ZWNjMyIsImMiOjE3NTEwNzAxODMzMjcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=
+cookie: d_fs=1
+cookie: d_uidb=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: d_uid=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: d_uidb=24164399-a6a9-a059-0a05-9b1a84726e84
+cookie: etavt=%7B%226811b656b8340%22%3A%229_8_NA_NA%7C0%22%7D
+cookie: lvv=104077161266844246
+cookie: vlc=954304528203227169
+cookie: _ga_B39RFFWGYY=GS2.1.s1751070152$o1$g1$t1751070264$j60$l0$h0
+cookie: _hjSessionUser_1180136=eyJpZCI6IjhjNzBiY2IzLTQzNGItNTdiMi1iOTE2LWZiNzVmMDNiNjBhMSIsImNyZWF0ZWQiOjE3NTEwNzAxODMzMjUsImV4aXN0aW5nIjp0cnVlfQ==
+priority: u=0, i
+

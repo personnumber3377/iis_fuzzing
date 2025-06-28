@@ -1,0 +1,33 @@
+POST /events HTTP/2.0
+content-length: 2476
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: intercom-session-zlmaz2pu=bVdLK1dhb2ZXRy9pNDFTTXdlVlZPdDFtMlo4ZmYxNnB5Y0hQMzZCSmtQWWloYmtIekxoUGxLSlRDYVRPQVp2eEl6SmlJUE1SVEVlaVFaUEhnU0VLWTZ4NFAvRk1TUlM0azdoYTJiNW1pNkE9LS1YdUdaNHQrWlMvc1JmaTZqcXEwUzdRPT0=--0b261cfed6469a3f993118195d31487bebf9243d
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: __Host-session=YlBFWjQ3UGJSbjBOaEUzSVE0L3kyQ1hSbDJuUG4yNHNuWnlVc3J0WENpUjE4eFRSeEJSeWJnSkJYUmxpU1ZiejFLRC9qWFJGbUl4bW1vN2hQejlPMWEycEJMQVVvamJnS0FPMG9aQlFIRW1RSm1YUnlVT1NkeFhmSUpsdzZwbUtPTWxpbnBDQkNHRm5qR2lDeWhQSU04NXRUckRndDhWTkZRRUx5ZDltUzVBbGpmUFQzbzhHWk5hczBzNExINVd0ZW1oNnNYcE41STlMYVh5dlZPNWV0dWdWa0p0OVg0WFdnbVJJSklGcmp0akplSHBSc2puUlRtS0pxd3BkQ0IrRUFUNUpHS0RseG5KcGxMK09KOHdZU2o3MVhaL2FSZExlbmQ0WTBiOEc0UERSbHd2czVpZFZhUEMycTlJUG5EdGJmZG13ZmRpdGFSeElRTTgwSVZ5cis1STFLNTc3TEJlcGdiYnlIa1V0anJLNXhubVExNDR0cVo1NytKMGlFeWVWMWMxbnZaelVmZW0zcVVJTVE0YTc3ejUvL1VLVjFLVGdGRVZLLzJ5VHJqWElVTFRMWDd1NW9RUE1QNWJVQlhiTjRNd0taWVVWcnVVYW02TDJaRFlwOGl6ckRwOWgrdkV6YVM2bU5mUitJRlpYSms4dTZrdTFpNmVISzhsTnpnNHZNam5pRmxaSTY3Z0NHMHljRGVQS3BhOXY3eXNydkVCK0Z5WjRWRzIxdjd2dmFteGtKMktyR0FOazBZSXZYMlZrUTYyMjZzYlVucldES0ZJM01vNmRZNjFtK21tVFFBUzRua2hFSlVGQllSdmdlMHVvQVVzRUJEQlF2V3FwMTV0ZjdOeDBBNXd1VTI5TmRIUFFDYUMwWUdPUXdHbVlVbWU3ZVB0UjVFVUF0Y0k9LS03OUIxQUpBN1p1K2hRdGFsbFlDNUtnPT0%3D--f56fd93b757a4d0cf9ae369c58cc93c2032f5bc2
+priority: u=1, i
+
+{"api_key":"b7cba2c14c3aee3ab2e7dbb8c13261fe","events":[{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070129545,"platform":"Web","insert_id":"6ab8607b-f1bc-45bb-92c4-d9b4398d8c33","event_type":"opportunity card viewed","event_properties":{"team_handle":"tinder","path":"/opportunities/all","opportunity_category":"campaign","campaign_id":"Z2lkOi8vaGFja2Vyb25lL0NhbXBhaWduLzM1OTI=","search_rank":0},"event_id":23,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"},{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070129648,"platform":"Web","insert_id":"b5607334-bd84-4e6e-8b94-d49c92bf81b6","event_type":"opportunity card viewed","event_properties":{"team_handle":"oppo_bbp","path":"/opportunities/all","opportunity_category":"campaign","campaign_id":"Z2lkOi8vaGFja2Vyb25lL0NhbXBhaWduLzM1MzY=","search_rank":1},"event_id":24,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"},{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070129691,"platform":"Web","insert_id":"f53b647c-9f9e-46ca-8d62-16411c368927","event_type":"opportunity card viewed","event_properties":{"team_handle":"dynatrace","path":"/opportunities/all","opportunity_category":"campaign","campaign_id":"Z2lkOi8vaGFja2Vyb25lL0NhbXBhaWduLzM1MzU=","search_rank":2},"event_id":25,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"},{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070129705,"platform":"Web","insert_id":"083d0496-e93a-411f-8294-aaafc9798b03","event_type":"opportunity card viewed","event_properties":{"team_handle":"indrive","path":"/opportunities/all","opportunity_category":"campaign","campaign_id":"Z2lkOi8vaGFja2Vyb25lL0NhbXBhaWduLzM0OTY=","search_rank":3},"event_id":26,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}],"options":{}}

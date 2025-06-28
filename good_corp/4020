@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 303
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: overview
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: opportunity_discovery
+x-csrf-token: cmy7SrA-ejRnZ6i7UX_xDVyUi6PpbbssXhbypL7AMbr4KBFmLlIjMeex-Ab67PbLDp_-v9R88eaJ5uA0vRZVuw
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: intercom-session-zlmaz2pu=bVdLK1dhb2ZXRy9pNDFTTXdlVlZPdDFtMlo4ZmYxNnB5Y0hQMzZCSmtQWWloYmtIekxoUGxLSlRDYVRPQVp2eEl6SmlJUE1SVEVlaVFaUEhnU0VLWTZ4NFAvRk1TUlM0azdoYTJiNW1pNkE9LS1YdUdaNHQrWlMvc1JmaTZqcXEwUzdRPT0=--0b261cfed6469a3f993118195d31487bebf9243d
+cookie: __Host-session=bUxGVkdIbjRlWWNkQTVQKzd6SzlnL3NjWkFvYzA1ZXRsT2lkdFZiS1duUWdPSUxFdGxqclBsQkdhaDJsYUlHMFd5bEVhb0VQZDBWT2ZxYndCMzlIdmVqOW9GbjZYcGVraWU4U1dRY0dKWXRPdU9uaWtFNHNmSGt2eUVnVVc2NlN6dE5GV3BLaUpEVmlodkxYcFQwdTNWUkVOdVVkUk9NTEJqMVNadEh2OUJCZ25wak9qVFBZaW82L3pRSjZlQmdEKzdqeDd4enc4d3k3MVRkTmw2MmE4SXdkQ2NJMFVmQjB6L3o2QWNrUytHY05QazhhOXpxQmNSNm1XRlZ0MzViU05RQ1UxUGN1eVNlc293dXI4MG9XQTdWVER3SlErKzVkR25heVJNTk93T0l5cFdjY3dXVDJ5Qm9zaDNVUS9nLzV5MzQyQXh6UVQ2NGNoT1YrcmhuazZlSWt2RHdDL2UrZUVNeXozY2Frdlc1Tk1xVnAvcnZ0WHFWcDQ2M2p0YUdmS1ZzTDBYWWZtOEFBT0pmVit6eW5qcVB4aGpaWEdHT1cxOUt6dkJnbVROSHE0ZmZ3MEdrY2k1bU03ZDN6YktCZTFwNlU0MmMrbmZna2JndTNoUVFuR25MSUdYL2JDSFdKK2Y3VWFQM1ZIZ0tKUlpGQ3hyNjV3OU9OQUJ2bldtbjB0VFVpdmJqTXAzckp5S3RzQzRneEx4dDNKd0M5YkZYcG5KblhxTnM1d3lOWFR0S3RXYXk2R3ZwRC9FNmtZYlVsTURwckJDdW9BRTBHQW1aSnZBVXF5KzBObEQvSFI5bVRReVFGMThTbDYvSFJETEFCRTk5R2dkV2ZsWDlnWXFIMmJkVlFWMEdHeTZYNWFZenJFU0c0bk9kQ2tGK3psNzVIZUN6ajgwU2tUU1U9LS1nalE5RHFVVW9qMWVNNmRqYkVXRXhBPT0%3D--e001dfd84ac95ee18bc1f79da31d453cd9004cc5
+priority: u=1, i
+
+{"operationName":"UserCollaborationInterestQuery","variables":{"product_area":"opportunity_discovery","product_feature":"overview"},"query":"query UserCollaborationInterestQuery {\n  me {\n    hacker_preference {\n      is_interested_in_collaboration\n      __typename\n    }\n    __typename\n  }\n}\n"}

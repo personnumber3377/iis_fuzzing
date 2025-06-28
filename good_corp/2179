@@ -1,0 +1,23 @@
+POST /_private/browser/stats HTTP/2.0
+content-length: 266
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://github.com
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://github.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: _octo=GH1.1.1861881513.1751070612
+cookie: logged_in=no
+cookie: cpu_bucket=md
+cookie: preferred_color_mode=light
+cookie: tz=Europe%2FHelsinki
+priority: u=4, i
+
+{"stats": [{"longAnimationFrames":[{"name":"long-animation-frame","duration":149.40000000002328,"blockingDuration":99.305,"url":"https://github.com/personnumber3377/"}],"timestamp":1751070615740,"loggedIn":false,"staff":false,"bundler":"webpack"}], "target": "full"}

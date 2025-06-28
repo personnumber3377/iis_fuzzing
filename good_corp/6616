@@ -1,0 +1,17 @@
+GET /cdn-cgi/challenge-platform/scripts/jsd/main.js HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: script
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: __cf_bm=jIM3f1g5zQk5k1uwyQjSoJmHp.RUpa7hQjsdVP2hEhE-1751069423-1.0.1.1-clrDdQP5zQf1Sm4ukzM17wofZLs2D4zvvHRb3qbdT8JT_EF8zvvytlFYWNk1DoqTJ_X7PNp72Y22Eflh0DLLoALNcDnHwnTTl9zjMDYzsz8
+cookie: __cflb=02DiuFA7zZL3enAQJD3AX8ZzvyzLcaG7w4nPdjuAvLEhz
+cookie: prov=d62c7b92-4103-496c-84b4-a9ca56160aa9
+cookie: _cfuvid=iEi8krz41LHqcWZbETvxFbh0lQxJ._4tqkVf4q07gqQ-1751069423741-0.0.1.1-604800000
+cookie: cf_clearance=bg6rczO1qCneVRZTGpJraMWzZMkwg0Dl5aUEsNqkeAU-1751069428-1.2.1.1-RTEfmis1pK1lPOvWnpWYBHIT5kt8txFnWiyz2OpdjNL7JdSUbzsRDVYX0rqiKH1MHCD05MChwW5mmfgpYEID4ZYEdh9wc3EEOwggUsyutr.UTUUtWnLYlz.vBodik4YF_g_sGBSNaTXWxnIINJdZq8kR_Q6zD3Wl6WFaFyb1sy5Bm9ZiS2Pw1ZyYrd2.fI3IAk32srDQvjEXlDjHb57NkxrlqqKxEt_CbpVixne0UN0B7A9QGHavOszPLhwYP1yZ8Ym2ebnsgYVlWHCUgDrPpgw_bc3y37HSBlTTK0Ejsq_LOZitVS5tvX491AXH6A7Bk6NaluFL0acVItDa56QKBOnvj0sbYRoo4MUuNZhMm980fqfGYUtGeXuHanTrb37W
+

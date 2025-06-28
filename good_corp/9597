@@ -1,0 +1,13 @@
+GET /complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=http+multipart+form+request+example+appli&oit=4&cp=41&pgcl=7&gs_rn=42&psi=UOz0P1ivKVVX3Tr9&sugkey=AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o HTTP/2.0
+x-client-data: CLWKywE=
+sec-fetch-site: none
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: AEC=AVh_V2izLWHMF02RtzSw5K-3DSR2y4WWLGbIF2w1vVmn6lzGYBx9FUgHlg
+cookie: SOCS=CAISHAgCEhJnd3NfMjAyNTA2MjQtMF9SQzEaAmZpIAEaBgiAvvfCBg
+cookie: NID=525=QBfqZny1krhGa5ppZY3U-A_3uDUIz-ra8oDxot-dvVxlqtqqq3VMmJ-d7_GdeDAZ0HiKrgAHKojNTJ8Akf1V7pDZwURFLMxD4UZ6AjXZo0V-pH9iNJGI7l1U4bBkWSZ5cR9UQF2EqGFNQ7MMMek4oYu_vFU529XKFwECNmBlxoR8xoXlAltxhH4OywpSYjQoxW8lS5opv-ZoQeR088YFwNJeuL0xpxFYrHVJSOOdkZxcM9oOTt4Y_yZ8Px2Wm6rM6OJnMOKl45isomShyypKnz4bnECU2YHzC9Us3LOaKsQV-Erj_tqbZyU
+priority: u=4, i
+

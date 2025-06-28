@@ -1,0 +1,33 @@
+POST /events HTTP/2.0
+content-length: 2594
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: __Host-session=VjlXRXFpZGxCeW11T055ckt0QXovR1FmaC9vRUJHK0YwZ3FEUzEyOHZmdkpidTJ3VzkyTlZDd1hiWVBrVytvNUpreWZLUFlhWm9vQVJXTlhqdmlEZENpWUFKRjJvQ3kyTXNiTm1jcGptaWpsTnMzREhUd2pCRDB2YmJlNDdMaDZJbm9Xc2R0WXFlbjh3eVl1eVMrWXIrSFU1M0NnUUFLa002WXpBUWIrcHJYZWQxaTY0a2d4U2ZtYlVsVG8vR1hhVnpVb2xWTWtJT3E4U0RrbkovbjJwR0R0cE1UYlB3cXVHNW8ydEw2VVAyM2lBcXFWWmNrb293ZTlkcE9GRi9QRUMvbkFKczdxc2NLTkJySk96ZzNsYmxOY0xkQlZqRTFDRllmTkpRdC9KK051a2l2Znp6N1hFNzdEVHpoZzFHRkUyemo5WjRYMGxNbEtzL2NxRTJsd1pOQ01wQm4rTGRwYlRyWDNKalZRZWFTMUlZZ0VtaENzR2hneXh1MUFqVXJwSXZIYktPSFZXRDdmOUFiWmxJcngxQTNXMGNkY240Yk9ZL2F1Q1hsdzlHMG53NlhlNWFFOHRKc3gzNmhnekE2ZWJrRDBhSHV6OTBrOG43RjgwZ3dFZlFLaUs3bXpHb1pPRS9CSmdZYU1JMmxmZlgwSVliR3dGNkVPck5Rbk9kZDZNVXJkYW1kL09acmluK2tTdVZqSVNXUmZRY0ZiN3QvTGxzTWl1SjZ5T3doTzhxSis0ZkpwVlZHYnZpWUhBcUxvNExQWWlYYURqc09DdnRIVVBwNDhydTcxRXRQYm1BTDJaR1pzMHN5T1FDWGZZKzBlVlhhaC95dGJvYjdDQm5nQjlZMHViMERtWGdUNXo2eFJNbEN6bTNkZHR1SThBSE50Y1J3SU5zZk1sSVU9LS1EU3dWY25ObHNJOWZ6b1NIdjV2YlhRPT0%3D--343e995067aa1b3e3c8f03c97ceb35e99a8f7a81
+priority: u=1, i
+
+{"api_key":"b7cba2c14c3aee3ab2e7dbb8c13261fe","events":[{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070130395,"platform":"Web","insert_id":"9f6b5aaa-7a31-413b-b291-69bfd172772b","event_type":"Page View","user_properties":{"$setOnce":{"initial_utm_campaign":"EMPTY","initial_utm_content":"EMPTY","initial_utm_id":"EMPTY","initial_utm_medium":"EMPTY","initial_utm_source":"EMPTY","initial_utm_term":"EMPTY","initial_referrer":"EMPTY","initial_referring_domain":"EMPTY","initial_dclid":"EMPTY","initial_gbraid":"EMPTY","initial_gclid":"EMPTY","initial_fbclid":"EMPTY","initial_ko_click_id":"EMPTY","initial_li_fat_id":"EMPTY","initial_msclkid":"EMPTY","initial_rtd_cid":"EMPTY","initial_ttclid":"EMPTY","initial_twclid":"EMPTY","initial_wbraid":"EMPTY"},"$unset":{"utm_campaign":"-","utm_content":"-","utm_id":"-","utm_medium":"-","utm_source":"-","utm_term":"-","referrer":"-","referring_domain":"-","dclid":"-","gbraid":"-","gclid":"-","fbclid":"-","ko_click_id":"-","li_fat_id":"-","msclkid":"-","rtd_cid":"-","ttclid":"-","twclid":"-","wbraid":"-"}},"event_id":20,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36","event_properties":{"page_domain":"hackerone.com","page_location":"https://hackerone.com/opportunities/all","page_path":"/opportunities/all","page_title":"HackerOne","page_url":"https://hackerone.com/opportunities/all"}},{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070128706,"platform":"Web","insert_id":"6dcf4f10-4bf3-4c5d-98ac-70f66888ff68","event_type":"$identify","user_properties":{"$set":{"hackerone_device_type":"desktop_laptop"}},"event_id":21,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"},{"user_id":"b3d5c051-0abf-4a0d-8a2f-4d2ccf05e873","device_id":"f7dea0a8-00a6-492c-aaca-ca48fa706c4c","session_id":1751070130380,"time":1751070128720,"platform":"Web","insert_id":"49ed5a37-ab91-49d4-b347-dd6f770b32d3","event_type":"page view","event_properties":{"title":"HackerOne","url":"https://hackerone.com/opportunities/all","path":"/opportunities/all","hash":"","search":"","width":1908,"height":956},"event_id":22,"library":"amplitude-ts/1.13.10","user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}],"options":{}}

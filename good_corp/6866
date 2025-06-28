@@ -1,0 +1,16 @@
+GET /pcs/activeview?xai=AKAOjsvjnbUtTZP-PDGTPgFUH7TRH77mNDTqNd2xGB2Ukh4PmftA2iKwtBx6_8G9QO6M75dA7lHl4Ku9I3rJOqzgm56yNYjr0j3EB9fZDrLij-tOD4-d7P31SgVIsnl6RDFomR1ygxpRcRdl3spcXm5Kx4MsJeZOcnF1My6ybcdgXcKWe8UY4PPFbE4CkPHzdjkSLfJ0rkquf_9Y1rwe&sai=AMfl-YQTNiMcDTJ8PJrbdkF3NPyVvngiUv5T0ZOIPba_hB_4vd_eOqcbPy3tAMBO3N_Qtt8GUn7InENah7kVHqSMojVz9jiDhMTJrnISoRM_n7_Qgw4G3qOljCfe0YVI&sig=Cg0ArKJSzI0mQp9nAjywEAE&cid=CAQSPADZpuyzcstPKM971rVNlX51UYDTLFVTH422mS8OnEj0EJyMkzzLcwV1j7udKc_ZYcOLZcneldNA_cvr9hgB&id=lidar2&mcvt=1007&p=0,0,604,160&tm=1347.7999999999884&tu=340.4000000000233&mtos=0,1007,1007,1007,1007&tos=0,1007,0,0,0&v=20250625&bin=7&avms=nio&bs=0,0&mc=0.99&if=1&app=0&itpl=20&adk=1812271803&rs=2&la=0&cr=0&uach=WyJMaW51eCIsIjYuNi44NyIsIng4NiIsIiIsIjEzNy4wLjcxNTEuMTAzIixudWxsLDAsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTM3LjAuNzE1MS4xMDMiXSxbIk5vdC9BKUJyYW5kIiwiMjQuMC4wLjAiXV0sMF0%3D&vs=4&r=v&co=4700286200&rst=1751070061702&rpt=634&met=ie&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0 HTTP/2.0
+cache-control: max-age=0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://googleads.g.doubleclick.net/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+

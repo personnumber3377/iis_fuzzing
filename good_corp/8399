@@ -1,0 +1,14 @@
+OPTIONS /api/posts?where[slug][equals]=maintenance-message&[_status][equals]=published HTTP/2.0
+accept: */*
+access-control-request-method: GET
+access-control-request-headers: authorization
+origin: https://www.tuohi.com
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-fetch-mode: cors
+sec-fetch-site: cross-site
+sec-fetch-dest: empty
+referer: https://www.tuohi.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+

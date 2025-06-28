@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 1446
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: inbox
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=fefe31c710b24a8c9bea0c26ac506510
+sentry-trace: fefe31c710b24a8c9bea0c26ac506510-879bc37c11813690
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: reports
+x-csrf-token: Xu0fD5wyQMr5B4b9ZJor_bQk5fqkmOguHaiF-LwIDP7UqbUjAl4Zz3nR1kDPCSw75i-Q5pmJouTKWJdov95o_w
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/bugs?subject=user&report_id=3133600&view=open&substates%5B%5D=new&substates%5B%5D=needs-more-info&substates%5B%5D=pending-program-review&substates%5B%5D=triaged&substates%5B%5D=retesting&reported_to_team=&text_query=&program_states%5B%5D=2&program_states%5B%5D=3&program_states%5B%5D=4&program_states%5B%5D=5&sort_type=latest_activity&sort_direction=descending&limit=25&page=1
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-session-zlmaz2pu=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0=--2286ce8840cb90f330807bee22310e31db5546cd
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: _dd_s=rum=0&expire=1751070231105
+cookie: __Host-session=dGFBRXZTN1hUb2MvU3Y4cHBQcisxVTIyekZmZHpSbDFyTzhGSk5yVFFBaTNJNC84OUFYYXJwNitxSXRiVlNFQVZOSHFOekxKUFpmZjV0NDM3cTE5NlAxVXZwQVRvVkxlT2NTZTJNSkVRZEx2cHhMcEkzWnBBTEJqRVAwZThXdDNuS3REVFIrNHc3WDVIWjRRY2Z6YUNnTFdtUTlyaVM2NXFjTXpNYW04YndBV3hMZkc5bnZ2dWJqYmRuS2RwOHhobENTbm5jYjdEWkwyWjdFSXNmbCtVSURiK0VGeUxxd2VycFFFd0VWckpLN3Q1bWlXdThYVFVzQ0s2Tmtwb0I2dkRDUldacE5mVGpIMi9aN1J4M2ovdTZsVEpDUW40ek5GRGxIZUNFTEd1QmlqdnJwdEJUb1FOTmR0RkJmN295ZE9jMWYrckNEakJ0THlzOE5DUnpvVHdtWHJrdEdWcWplMFpaNzJsMmtENWswOWF3Yi80b1JvbWxsdWZnbWk2TFpGaGVmWTJsSXNNUmlQa2pMaTFQczkvNmVaYnNhK3M5WS83eUdlNjVIZUVJYmNZc2NFaW5TNlZUYVpqa2wzOFVMS09LS0RvQ1BxMTl1WVBaWC9DL09jaWlLY1NXc25FZzVFY0NtWGZLMDJpc2IrWU9Ra0pUT3ZMRjlCSmV0eXhzU0UxbFNmWkVZQ3dWZWVnRjNxMWxjay9NdG12MW9LOHplRy9ockI5VkZxbk1PdWpReVZ5d0tFazUwdlZ3bGx2ZklZdWxRRmRVc1NjT2Z2WGtVQjJ0dUNIS01ybkRkZ0tRVTBJVjVpU21kNllTVndSdG1GMTUvT1ZFenJJUWlFeU1RR0x6RklpdTJXdlp6bERRaGxBSkYzalZZRDBudnd4UG1LYlNrU25QNUNiMlU9LS1UUmVWTTQxa3ZsRUZ0T0xJMm9rREFnPT0%3D--0a34ed1f3fc3800b85d60b9f3201677c20270bd1
+priority: u=1, i
+
+{"operationName":"ActivityPreviewReportQuery","variables":{"id":3133600,"product_area":"reports","product_feature":"inbox"},"query":"query ActivityPreviewReportQuery($id: Int!) {\n  reports(where: {id: {_eq: $id}}) {\n    nodes {\n      id\n      team_member_agreed_on_going_public_at\n      bug_reporter_agreed_on_going_public_at\n      reporter {\n        username\n        __typename\n      }\n      attachments {\n        _id\n        file_name\n        file_size\n        content_type\n        expiring_url\n        moderated\n        __typename\n      }\n      activities {\n        edges {\n          node {\n            ... on ActivityInterface {\n              _id\n              __typename\n            }\n            ... on ReportActivityInterface {\n              id\n              attachments {\n                id\n                _id\n                file_name\n                file_size\n                content_type\n                expiring_url\n                moderated\n                __typename\n              }\n              __typename\n            }\n            __typename\n          }\n          __typename\n        }\n        __typename\n      }\n      team {\n        type: __typename\n        id\n        name\n        team_name: name\n        team_profile_picture: profile_picture(size: medium)\n        handle\n        currency\n        is_team_member\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}

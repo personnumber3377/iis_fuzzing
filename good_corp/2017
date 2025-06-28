@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 2419
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: overview
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: opportunity_discovery
+x-csrf-token: cmy7SrA-ejRnZ6i7UX_xDVyUi6PpbbssXhbypL7AMbr4KBFmLlIjMeex-Ab67PbLDp_-v9R88eaJ5uA0vRZVuw
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: intercom-session-zlmaz2pu=bVdLK1dhb2ZXRy9pNDFTTXdlVlZPdDFtMlo4ZmYxNnB5Y0hQMzZCSmtQWWloYmtIekxoUGxLSlRDYVRPQVp2eEl6SmlJUE1SVEVlaVFaUEhnU0VLWTZ4NFAvRk1TUlM0azdoYTJiNW1pNkE9LS1YdUdaNHQrWlMvc1JmaTZqcXEwUzdRPT0=--0b261cfed6469a3f993118195d31487bebf9243d
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: __Host-session=Q3Jyc3JyUnc3dWwwZXozZ1JDZStENGNTV0pTeDhOcjRWSmh0VDQ4WC9UMDFFRGRrUEJkQ0JXNzlNWW01SUhYcStkRDRNaUg1U0hGM09JQ2U0bElaYlFxVjBRSnVtelR1K3RiSjBZWDVFSmtBVzRqdVlEZUt0ZHFxWVdMTFhHaXBJalZKUEZWcS9mUlJ2RllRMVByUlJlNEVVOVYvSGQ0ekZYRUJ1NzlwQyt2RkZTUUVPOXpmTFBXQVI2V1F6MFBTd25yRlRETjFidkF4Q2VZTVFGdW5UV2Q4R1NBNnVYVjZOaTNqMHhqVXA1WFF0eWd3d0dqcjU3QXh0TVFJMjgwRUJJcTFjekpqc0tPcUV3MDdQSXN3d1dsYjJ4Ri90aUpUdGlIU1gyMldUMlhObkYybkxnNUpoeno0SCs0U0JBbmxpNG1sVjNrY0pFTDBkemxpcmNseHdocmRYZEcrSkE0ZHBxK3dtWFAvdG5kRisvc3NGdyszd3VRVDdIaDIwcTlHY0hxRlV0aTJQNDhndFFXUTF4K1AwNHdJWENjYmZBNzc5RURpY1NsczVIVlVMeW8reG8vQ0R6WVVlNDliY1dXRzFydmRWS3N6WGxUZnA0R3FEY1NpcEhxc2NzZVhCV3NkM2RZY2dLOWNmL1FRUnF0WU9udXJJK3FNZHFPcThIdjA5MHZGQityYWJ4dGs0TzF6Vkx0bUtWQ0lqcHBGNi9RQ0dLRWV6cnZQWnRpOWJTbkEwRHdKMXh1dUR2WngrV1p5bWUzNzFPSm1lS2xWdXpEMU1rS2MvRjVoYldYY0FKVGxSL0ptd282Vm9zLys0dEtRL3BFM2xzUHo2SEFnOG92SnZkNGRBWmdHZWlZVTZsRTRwS0JHZnZwNHVacnVqQm5wajNwcU5KUGVSVVU9LS13QXBBNm80cFdlUEUwVm5lRHRvNGd3PT0%3D--093be8c81b984daadd658766aaea803ba7eb8dba
+priority: u=1, i
+
+{"operationName":"OpportunityCategoryQuery","variables":{"size":4,"from":0,"query":{},"filter":{"bool":{"filter":{"term":{"list_opportunity":true}},"must_not":{"terms":{"team_id":[960,1438,15730,17586,25139,31574,49257,51518,51895,53832,54814,56434,57360,59154,60350,61305,63488,63839,81930]}}}},"sort":[{"field":"awarded_report_count","direction":"ASC"},{"field":"last_updated_at","direction":"DESC"}],"product_area":"opportunity_discovery","product_feature":"overview"},"query":"query OpportunityCategoryQuery($from: Int, $size: Int, $query: OpportunitiesQuery!, $filter: QueryInput!, $sort: [SortInput!], $post_filters: OpportunitiesFilterInput) {\n  opportunities_search(\n    query: $query\n    filter: $filter\n    from: $from\n    size: $size\n    sort: $sort\n    post_filters: $post_filters\n  ) {\n    nodes {\n      ... on OpportunityDocument {\n        id\n        handle\n        __typename\n      }\n      ...OpportunityList\n      __typename\n    }\n    total_count\n    __typename\n  }\n  me {\n    id\n    ...OpportunityListMe\n    __typename\n  }\n}\n\nfragment OpportunityList on OpportunityDocument {\n  id\n  ...OpportunityCard\n  __typename\n}\n\nfragment OpportunityCard on OpportunityDocument {\n  id\n  team_id\n  name\n  handle\n  profile_picture\n  triage_active\n  publicly_visible_retesting\n  allows_private_disclosure\n  allows_bounty_splitting\n  launched_at\n  state\n  offers_bounties\n  last_updated_at\n  currency\n  team_type\n  minimum_bounty_table_value\n  maximum_bounty_table_value\n  cached_response_efficiency_percentage\n  first_response_time\n  structured_scope_stats\n  show_response_efficiency_indicator\n  submission_state\n  resolved_report_count\n  campaign {\n    id\n    campaign_type\n    start_date\n    end_date\n    critical\n    target_audience\n    __typename\n  }\n  gold_standard\n  awarded_report_count\n  awarded_reporter_count\n  h1_clear\n  idv\n  list_opportunity\n  __typename\n}\n\nfragment OpportunityListMe on User {\n  id\n  ...OpportunityCardMe\n  __typename\n}\n\nfragment OpportunityCardMe on User {\n  id\n  ...BookmarkMe\n  ...PrivateOpportunitiesMe\n  __typename\n}\n\nfragment BookmarkMe on User {\n  id\n  __typename\n}\n\nfragment PrivateOpportunitiesMe on User {\n  id\n  whitelisted_teams {\n    edges {\n      node {\n        id\n        _id\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n  __typename\n}\n"}

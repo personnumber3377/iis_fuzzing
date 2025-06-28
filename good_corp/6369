@@ -1,0 +1,18 @@
+GET /maps/embed?pb=!1m18!1m12!1m3!1d1934.728727104198!2d25.673546877360618!3d60.99299827675922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920bd447a07629%3A0x499ea5ac9bf36480!2sBebek%20Electronic%20Ky!5e0!3m2!1sen!2sfi!4v1736511526950!5m2!1sen!2sfi HTTP/2.0
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+x-client-data: CLWKywE=
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-dest: iframe
+sec-fetch-storage-access: active
+referer: https://bebek.fi/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: NID=525=Hd_v7NX3T64yP54k40qc6ug0MuuT5PpqHgEBFgY-NAT6M4z4LiOSMxy6Rf2GtwswbS3j4K3n8cDmjHhDI5dKcyUvsmTB2hRQljuqntehFpDr1DtGp6EqnKFig7800b3BqCahxb32TaKJTT-l9LFrTol9n4RZCK3lny0hat8IBLYeilQvm00kosqYjQOpJS48DNtxoepplD2K_fZ3iaYgEd2hFXH1_nS4QFs-YH6cAj83d8F-y4DzehrjxIoRzZEJNLr_6XFmxAUkximNAHqkO_IUKS52aMR3VMZvgfBbUB3kERF2Og
+priority: u=0, i
+

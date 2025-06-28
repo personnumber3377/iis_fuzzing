@@ -1,0 +1,15 @@
+GET /static/build/chunks/async-offers-index-47daca92c3749e36bbf7.js HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: script
+referer: https://tinder.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: AWSALB=Qkzooj/GO1hNtV5ItxTWei9s4p5WFJUV7212BpBt7g1LhQkwZW6KS7bMTl/6JQtf2t9YM71wBmEe+cgvZjksFlTE3EnCG5VvvjXTZd9TFkcmMz5dojOPlKBw2l0V
+cookie: AWSALBCORS=Qkzooj/GO1hNtV5ItxTWei9s4p5WFJUV7212BpBt7g1LhQkwZW6KS7bMTl/6JQtf2t9YM71wBmEe+cgvZjksFlTE3EnCG5VvvjXTZd9TFkcmMz5dojOPlKBw2l0V
+

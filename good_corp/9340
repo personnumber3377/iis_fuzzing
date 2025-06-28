@@ -1,0 +1,36 @@
+POST /graphql HTTP/2.0
+content-length: 428
+sec-ch-ua-full-version-list: "Chromium";v="137.0.7151.103", "Not/A)Brand";v="24.0.0.0"
+sec-ch-ua-platform: "Linux"
+x-product-feature: overview
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-model: ""
+sec-ch-ua-mobile: ?0
+baggage: sentry-environment=production,sentry-release=8c5833c,sentry-public_key=90427e0cbcf0487db664e4357d17761b,sentry-trace_id=4478edb998e54ae6a7c6f32f33671bb8
+sentry-trace: 4478edb998e54ae6a7c6f32f33671bb8-ab95ecf1c8be4913
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "137.0.7151.103"
+accept: */*
+content-type: application/json
+sec-ch-ua-bitness: "64"
+x-product-area: opportunity_discovery
+x-csrf-token: cmy7SrA-ejRnZ6i7UX_xDVyUi6PpbbssXhbypL7AMbr4KBFmLlIjMeex-Ab67PbLDp_-v9R88eaJ5uA0vRZVuw
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua-platform-version: "6.6.87"
+origin: https://hackerone.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://hackerone.com/opportunities/all
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: h1_device_id=4b7790a8-c3c3-4732-92b5-3eb2875140fb
+cookie: cf_clearance=JJ9ppF7jtwGMlObCAStjmfcE629TJHMspG2iIhjcvXE-1751068682-1.2.1.1-8Sc.tDk7IAGzX1viv7iTkct.RkLd4Y3m5ppRnQMijydhkqqrG7BKGDaqJGJ0Yi964oyRFDYggn_CbWhv2RfUuKi0uvfDpYAe3JvnEHmuju3rV.iNFJOaaJVYmUKyL2QVaG7AIndaFPB3Nl9quUiBHTIvvdB0ZTqdtQFDeqHV73wbsLZZkPxPZV0pkpQj.6jxdAOleA8YXoZrjLB5U_vWrfoaEXy0rJmAlX3AF4rGvp.xKmL5u2uniNJ09cON3d2.Y3_emwSquGfKsr4miqz7.noInFrBhq7b0dkAwoZjpod3Ws3haGdnQ0lufFYEtRIXlx0zqylz5TOUHq8Y8BygxaOGGhYEYcSSc0YE7qD7vimnDfUFJhvCfU.MxC1xZ3vY
+cookie: app_signed_in=true
+cookie: intercom-device-id-zlmaz2pu=37a1e97a-4c90-4558-8cb6-dc4751b97e7a
+cookie: intercom-session-zlmaz2pu=bVdLK1dhb2ZXRy9pNDFTTXdlVlZPdDFtMlo4ZmYxNnB5Y0hQMzZCSmtQWWloYmtIekxoUGxLSlRDYVRPQVp2eEl6SmlJUE1SVEVlaVFaUEhnU0VLWTZ4NFAvRk1TUlM0azdoYTJiNW1pNkE9LS1YdUdaNHQrWlMvc1JmaTZqcXEwUzdRPT0=--0b261cfed6469a3f993118195d31487bebf9243d
+cookie: _dd_s=rum=0&expire=1751071028751
+cookie: __Host-session=NCsrbm16UDZKSjJwdXM3NFZJUEs3R1IzTFVyTkV6NkpqN2ovUjloSXUyVjNYUFB4Y1Ricmpsdm9KTmxsQ0tWVEFmZEFiTU95cHFxWWZpbWZVQnB0UElMcDk0cVRTUXVKcjlWSVR3N0k2NDJqS0YzWVN2UjVWbWpSRzY3S2VuU0dQU3Q5dnVtQnI1cCt6Ly9scG8vYmQ1RHlRZDl5MTNSRzFtNVp5a3J6V2N2ZTkwWTBaSFU4dDg0WnR5eG93d1ZpZ3ZoQ3dQbjEzK0gyY0lCSG8yMmV2ZWRQOUJuUTRQY1R1ZitCYkZFTzNBVFFuS0xiKzBlUGtPb0hBeGw2Ymx2OWtvTXZQeHd5RC9DY29QYitDYURoNTFzSlllTTUwdlF4b1NSLzl2ZU1xS0RFdG94NHVYem1jZ2ZldkdQOFlaRmhWWE5NdzdlWGNSbmprZHpuY2ZleU5zYjM0ell0cXUwbjN6a3dSR2owNDhMNWNxTzJod1puOEdwcStkOUJlUUovMEsyQmFGNTNuelpOTTJYOXVNTmtGd3lUYXE0K3NtYlh3K2xYN21sd0xDSzI2UmNGNjZYK2xDNi9ZcjUya01QczlTWkU1a3c3Q21tTFJLQVd6VVhZN1NwcTg4UUt4c0tHYkcrL2VQQW4xeVFTWW4xUlg0QndIOGg4WmFCZlpJcWhyMHFjbmh5eXZoM3lwT0FLWTZsL0ppT1RPcE5BcncvcWQwbEpHNStrYzA5UEF1YW1GNHVpUDg4YVQvYisxbGQ4eE90b0ZVVDdtak9hM1JNU1BrOE01bmRiTVcwN05iQllSb3U5STFmY29wZFp5NnMyYkM1NlhzTTJCZ1BXOGxHU0llN3lqUTBKM01rZGR5TWxIMTVmemhteGtqbURkTGFtMnI0TlBxcWNWcjA9LS1QaGp5MTV3VzNnNmlTZHVQTlVyRWlBPT0%3D--6b8216c6726bcfc548c5832ca3f6c4c43c3f1a00
+priority: u=1, i
+
+{"operationName":"BookmarkAndFeedbackQuery","variables":{"ids":[90417],"product_area":"opportunity_discovery","product_feature":"overview"},"query":"query BookmarkAndFeedbackQuery($ids: [Int!]) {\n  teams(where: {id: {_in: $ids}}) {\n    nodes {\n      id\n      _id\n      handle\n      ...BookmarkTeam\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment BookmarkTeam on Team {\n  id\n  bookmarked\n  __typename\n}\n"}

@@ -1,0 +1,18 @@
+POST /messenger/web/ping HTTP/2.0
+content-length: 938
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: application/x-www-form-urlencoded
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://hackerone.com
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+
+app_id=zlmaz2pu&v=3&g=a0e36ea796be9de381c5d1e2946961ac2886b4ab&s=43afbae3-bcbe-41b5-ad1c-aa73d54f63b3&r=&platform=web&installation_type=rails&installation_version=undefined&Idempotency-Key=70af97e52b2afee3&internal=%7B%7D&is_intersection_booted=false&page_title=HackerOne&user_active_company_id=undefined&user_data=%7B%22email%22%3A%22sontapaa.jokulainen%40gmail.com%22%2C%22user_id%22%3A1276707%2C%22user_hash%22%3A%22d66b10658314df266986b35f955981af84b10af80a915fcc66109517102ea06e%22%2C%22name%22%3A%22L33thaxor%22%2C%22created_at%22%3A1596711536%7D&source=apiBoot&sampling=false&referer=https%3A%2F%2Fhackerone.com%2Fopportunities%2Fall&anonymous_session=elRZSDVkWHFjM1phVFdkTC9OcDk5Ym8xYzZjejVkUE5YN0NxTUZ2NVREVU5EMEZ4eDZySDcrZ1BzbGM4U0ZuNzdXczA3emhJRlpBQjZHYjliYnlOQVNoeldNdk0xQ0s0WFdyOW5OOUoyT0k9LS1oemRlWFBMUFpVN3FoM0dMZytjWGNRPT0%3D--2286ce8840cb90f330807bee22310e31db5546cd&device_identifier=37a1e97a-4c90-4558-8cb6-dc4751b97e7a

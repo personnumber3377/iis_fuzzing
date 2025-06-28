@@ -1,0 +1,14 @@
+GET /pubsub/5-5-GoXLrEamK8wWjLatZ_1WoPFVeu10qCyj93K98dbGomKwiiJfV_l58pXAPreqmRbLaEQMpMnu16fvKCHqn5zg2M6FTZYPqW7Q9N?X-Nexus-New-Client=true&X-Nexus-Version=0.14.0&user_role=user HTTP/1.1
+Host: nexus-websocket-a.intercom.io
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://hackerone.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: yT66Zw2rKUTEwzfC/v4XLA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+

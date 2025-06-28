@@ -1,0 +1,20 @@
+GET /kl0vftkfz89f1/HLS_AUDIO_128.aac HTTP/2.0
+sec-ch-ua-platform: "Linux"
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+cmcd-object: br=866,d=2965,ot=a
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+cmcd-session: cid="kl0vftkfz89f1",sf=h,sid="d6737870-2485-4b74-9567-26b16601593f"
+cmcd-request: bl=11900,mtp=78200,su
+accept: */*
+origin: https://www.reddit.com
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.reddit.com/
+accept-encoding: identity
+accept-language: en-US,en;q=0.9
+range: bytes=270344-340279
+if-range: "d23e1d5f0620e5fcc34da47cab743ffe"
+priority: u=1, i
+

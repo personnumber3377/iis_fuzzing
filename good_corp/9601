@@ -1,0 +1,19 @@
+POST /v1/events?hasty=true HTTP/2.0
+content-length: 462
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://en.wikipedia.org
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+sec-fetch-storage-access: active
+referer: https://en.wikipedia.org/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+
+{"event":{"source_page_id":21785,"source_namespace":0,"source_title":"Nuclear_weapon","source_url":"https://en.wikipedia.org/wiki/Nuclear_weapon","page_id":646872,"page_namespace":0,"page_title":"Suitcase_nuclear_device"},"schema":"VirtualPageView","webHost":"en.wikipedia.org","wiki":"enwiki","$schema":"/analytics/legacy/virtualpageview/1.0.0","client_dt":"2025-06-28T00:28:41.479Z","meta":{"stream":"eventlogging_VirtualPageView","domain":"en.wikipedia.org"}}

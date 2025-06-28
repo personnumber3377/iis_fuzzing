@@ -1,0 +1,21 @@
+GET /portal/wikipedia.org/assets/img/sprite-de847d1a.svg HTTP/2.0
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://www.wikipedia.org/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: WMF-Uniq=BFKd0K1oYOQKTwFz7PVllAIdAAEBAFvdt2i-o2R4o5Hv3d7W97a6WeruNHymeTXL
+cookie: WMF-Last-Access=28-Jun-2025
+cookie: WMF-Last-Access-Global=28-Jun-2025
+cookie: GeoIP=FI:18:Espoo:60.18:24.84:v4
+cookie: NetworkProbeLimit=0.001
+if-none-match: W/"c5c8-630cea0d56600"
+if-modified-since: Thu, 20 Mar 2025 23:38:00 GMT
+priority: i
+

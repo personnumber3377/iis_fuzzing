@@ -1,0 +1,16 @@
+GET /videos/202506/20/470599065/180P_225K_470599065.webm?validfrom=1751066089&validto=1751073289&rate=66k&burst=150k&ipa=95.105.223.60&hash=%2BD9%2BW7tqtZCnqTFNWuIo025vJzY%3D HTTP/2.0
+sec-ch-ua-platform: "Linux"
+accept-encoding: identity;q=1, *;q=0
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?0
+accept: */*
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: video
+sec-fetch-storage-access: active
+referer: https://www.pornhub.com/
+accept-language: en-US,en;q=0.9
+range: bytes=0-
+priority: i
+

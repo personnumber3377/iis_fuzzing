@@ -1,0 +1,23 @@
+POST /.well-known/shopify/monorail/unstable/produce_batch HTTP/2.0
+content-length: 1941
+sec-ch-ua-platform: "Linux"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+content-type: text/plain;charset=UTF-8
+sec-ch-ua-mobile: ?0
+accept: */*
+origin: https://bebek.fi
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://bebek.fi/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: localization=FI
+cookie: _tracking_consent=3.ampS_FI18_t_f_nM0PfP2oTiu5goRP2TKkSA
+cookie: _ga=GA1.1.1041721554.1750861531
+cookie: keep_alive=eyJ2IjoyLCJ0cyI6MTc1MTA2OTMyMjE4MCwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJ0YSI6MCwia2JhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1MTA2OTMyMTk5NywiZCI6MH19
+cookie: _ga_XS4TT1TX37=GS2.1.s1751069322$o2$g0$t1751069322$j60$l0$h0
+priority: u=4, i
+
+{"metadata":{"event_sent_at_ms":1751069322376},"events":[{"schema_id":"web_pixels_manager_load/3.1","payload":{"version":"0.0.475","bundle_target":"modern","page_url":"https://bebek.fi/","status":"loaded","surface":"storefront-renderer"},"metadata":{"event_created_at_ms":1751069321856}},{"schema_id":"web_pixels_manager_init/3.2","payload":{"version":"0.0.475","bundle_target":"modern","page_url":"https://bebek.fi/","shop_id":78417985803,"surface":"storefront-renderer","status":"initialized","user_can_be_tracked":"false"},"metadata":{"event_created_at_ms":1751069321866}},{"schema_id":"web_pixels_manager_event_publish/1.6","payload":{"version":"0.0.475","bundle_target":"modern","page_url":"https://bebek.fi/","shop_id":78417985803,"surface":"storefront-renderer","event_name":"page_viewed","event_type":"standard","user_can_be_tracked":"false","event_id":"sh-b3dd7071-27A6-4148-7112-5AC2874792B2"},"metadata":{"event_created_at_ms":1751069321920}},{"schema_id":"web_pixels_manager_pixel_register/3.8","payload":{"version":"0.0.475","page_url":"https://bebek.fi/","shop_id":78417985803,"surface":"storefront-renderer","pixel_id":"2251981067","pixel_app_id":"1780363","pixel_source":"APP","pixel_runtime_context":"OPEN","pixel_script_version":"26a08df6fb732969dd50810ae4fdc2c1","pixel_configuration":"{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-K55FTPTK\\\"],\\\"target_country\\\":\\\"FI\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-22Y8ZCQSV1\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-22Y8ZCQSV1\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-22Y8ZCQSV1\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","pixel_event_schema_version":"v1","status":"registered","user_can_be_tracked":"false","bundle_target":"modern","duration":288,"start_time":1565,"session_id":"sh-b3dd705d-4847-4DC3-3AB6-52EBE07AA885"},"metadata":{"event_created_at_ms":1751069322209}}]}
