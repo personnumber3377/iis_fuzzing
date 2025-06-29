@@ -5,6 +5,7 @@ import struct
 import copy
 import pickle
 import string
+import sys
 
 from http_mutator import * # Get all the shit...
 
@@ -149,5 +150,7 @@ if __name__ == "__main__":
     # send_files("./payloads/", "192.168.50.29", 80)
 
     # send_files("./payloads/", "192.168.50.29", 80)
-
-    send_files("./good_corp/", "192.168.50.29", 80)
+    if len(sys.argv) != 3:
+        print("Usage: "+str(sys.argv[0])+" IP_ADDRESS PORT")
+        exit(1)
+    send_files("./good_corp/", sys.argv[1], int(sys.argv[2]))
